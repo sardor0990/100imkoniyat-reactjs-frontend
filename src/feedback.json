@@ -1,0 +1,29 @@
+{
+    "data" :[
+        {
+            "name" :"Shukhrat Karimov",
+            "image": "https://static.thenounproject.com/png/801408-200.png",
+            "position" : "IT-специалист",
+            "description" : "Эта платформа стала для меня переломным моментом. Как человек с ограниченными возможностями, я с трудом находил подходящие возможности. Благодаря этому сайту я нашел программы и ресурсы, соответствующие моим потребностям. Это оказало огромную помощь в продвижении моей карьеры!"
+        },
+
+        {
+            "name" :"Dilafruz Abdullayeva",
+            "image": "https://static.thenounproject.com/png/801408-200.png",
+            "position" : "Young businessman",
+            "description" : "As a young entrepreneur, I was struggling to find the right opportunities to grow my business. The information provided here about government programs and grants has been invaluable. I've already applied for two initiatives and can't wait to see where they take my business"
+        },
+        {
+            "name" :"Gulsanam Matkarimova",
+            "image": "https://static.thenounproject.com/png/801408-200.png",
+            "position" : "Universitet talabasi",
+            "description" : "Men o'qishimni davom ettirish uchun ta'lim imkoniyatlarini qidirdim va ushbu veb-saytga duch keldim. Bu ma'lumotlarning oltin konidir! Men bir nechta stipendiya va grantlarni topdim, ular uchun munosib bo'lgan va allaqachon er-xotinlikka ariza berganman. Ushbu ajoyib manba uchun rahmat"
+        },
+        {
+            "name" :"Alisher Karimov",
+            "image": "https://static.thenounproject.com/png/801408-200.png",
+            "position" : "Владелец малого бизнеса",
+            "description" : "Этот сайт стал благословением для моей семьи. Мы с женой нашли ценную информацию о возможностях для женщин и молодежи, и мы очень благодарны за поддержку, которую мы получили через эти государственные программы. Утешает то, что такие ресурсы легкодоступны."
+        }
+    ]
+}

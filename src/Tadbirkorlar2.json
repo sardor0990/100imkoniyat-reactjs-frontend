@@ -1,0 +1,358 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "titleUz":"“Yoshlar daftari”ga kiritilgan yoshlarga tadbirkorlik faoliyatini boshlash uchun zarur bo‘lgan asbob-uskunalar va mehnat qurollari xaridi uchun BHMning 40 baravarigacha subsidiya berish mexanizmi:",
+            "descriptionUz":[
+                "Talabgor subsidiya ajratish bo‘yicha “Yoshlar daftari” jamg‘armasi Vasiylik kengashiga asbob-uskuna yoki mehnat qurollarining turi, miqdori, tovarning markasi, taxminiy narxini taqdim etgan holda ariza beradi.",
+
+                " Ariza unga ilova qilingan hujjatlar bilan arizachi yashab kelayotgan mahalladagi hokim yordamchisiga ko‘rib chiqish uchun yuboriladi. (3 ish kuni)",
+
+                " Arizaning natijasi haqidagi haqidagi xabarnoma Vasiylik kengashiga yuboriladi. Bunda subsidiya ajratishni rad etish haqida xabarnoma yuborilganda, rad etish sabablari asoslantiriladi. (5 ish kuni)",
+
+                "Hokim yordamchisi tomonidan belgilangan muddatda ariza natijasi haqida xabarnoma berilmasa yoki asossiz rad etilgani aniqlansa, Vasiylik kengashi ariza beruvchining murojaatini qanoatlantiradi. (5 ish kuni)",
+
+                "Asbob-uskuna yoki mehnat qurollarini yetkazib beruvchi tashkilot davlat xaridlarining elektron tizimi orqali yutib chiqqach, subsidiya ajratadi. (5 ish kuni)",
+
+                "Asbob-uskuna yoki mehnat quroli yetkazib beruvchi tomonidan taqdim etilgandan so‘ng Vasiylik kengashining ishchi organi ariza beruvchi bilan dalolatnoma tuzib, topshiradi. (3 ish kuni)",
+
+                "Ariza beruvchining asbob-uskuna yoki mehnat qurollaridan samarali foydalanayotgani monitoring qilib boriladi. (Har oyda kamida bir marta)",
+
+                "IT o‘quv markazi ochish istagida bo‘lgan yoki tadbirkorlik qilishda kompyuterlarga muhtoj bo‘lgan yoshlar asbob-uskuna sifatida kompyuter jamlanmalari uchun subsidiya olishlari ham mumkin"
+            ],
+            "titleRu":"Механизм предоставления до 40-кратной субсидии МСБ на приобретение оборудования и орудий труда, необходимых для начала предпринимательской деятельности, молодежи, включенной в”молодежную книгу:",
+            "descriptionRu":[
+               "Фонд Молодежная тетрадь соискателя субсидии  подает заявление в попечительский совет с указанием вида, количества, марки товара, примерной стоимости оборудования или орудий труда.",
+
+                "Заявление с приложенными к нему документами направляется на рассмотрение помощнику мэра в районе, где проживает заявитель. (3 рабочих дня)",
+
+                 "Уведомление о результате заявления направляется в попечительский совет. При этом, когда направляется уведомление об отказе в предоставлении субсидии, причины отказа обосновываются. (5 рабочих дней)",
+
+                "В случае непредставления помощником мэра уведомления о результате подачи заявления в установленный срок или обнаружения необоснованного отказа, попечительский совет удовлетворяет ходатайство заявителя. (5 рабочих дней)",
+
+                "Когда организация, поставляющая оборудование или орудия труда, выигрывает через электронную систему государственных закупок, она получает субсидию. (5 рабочих дней)",
+
+                "После предоставления поставщиком инструмента или орудия труда рабочий орган попечительского совета составляет и передает с заявителем акт. (3 рабочих дня)",
+
+                "Осуществляется мониторинг эффективного использования соискателем оборудования или орудий труда. (Хотя бы раз в месяц)",
+
+                "Молодые люди, которые хотят открыть центр обучения ИТ или которым нужны компьютеры в предпринимательстве, также могут получить субсидию на компьютерные комплекты в качестве оборудования"
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://lex.uz/docs/-5382151",
+            "category": "tadbirkorlik"
+        },
+        {
+            "id": "2",
+            "titleUz":"“Yoshlar daftari”dagi yoshlarga tadbirkorlik faoliyati hamda o‘zini o‘zi band qilish maqsadida noturar joyning 12 oygacha ijara xarajatlarini ko‘pi bilan bir yilda 30 foiz, biroq bhmning 25 baravarigacha miqdorda qoplash mexanizmi:",
+            "descriptionUz":[
+                "Talabgor tuman (shahar) Yoshlar daftari jamg‘armasi Vasiylik kengashiga o‘zi va ijaraga beruvchi tashkilot o‘rtasida tuzilgan shartnoma nusxasini taqdim etib, murojaat qiladi. (ish kuni)",
+
+                "Vasiylik kengashi murojaatni arizachining mahallasidagi hokim yordamchisiga ko‘rib chiqish uchun yuboradi. (3 ish kuni ichida)",
+
+                "Hokim yordamchisi ariza natijasi haqidagi xabarnomani Vasiylik kengashiga yuboradi (rad etish sabablari asoslantirib beriladi). (5 ish kuni ichida)",
+
+                "Murojaat natijasi haqida xabarnoma berilmasa yoki asossiz rad etilganligi aniqlansa, Vasiylik kengashi murojaatni qanoatlantiradi. (5 ish kun ichida)",
+
+                "Vasiylik kengashi to‘lovni ajratish haqida qaror qabul qiladi va mablag‘ni ijaraga beruvchining hisobvarag‘iga o‘tkazadi. (3 ish kun ichida)",
+
+              "Hokim yordamchisi ijaraga olingan bino-inshootdan haqiqatdan samarali foydalanilayotganini monitoring qilib boradi. (Har oyda kamida bir marta)",
+
+              "IT yo‘nalishidagi o‘quv markaz ochish istagida bo‘lgan yoshlar ham ushbu imkoniyatdan foydalanishlari mumkin."
+            ],
+            "titleRu":"Механизм возмещения молодым людям в молодежной книге расходов на аренду нежилого помещения на срок до 12 месяцев в целях предпринимательской деятельности и самозанятости в размере не более 30 процентов в год, но не более 25 раз в BHM:",
+            "descriptionRu":[
+                "Заявитель обращается в попечительский совет районного (городского) Фонда молодежной книги, представляя копию договора, заключенного между ним и арендодателем. (рабочий день)",
+
+                "Попечительский совет направляет петицию на рассмотрение помощнику мэра в районе заявителя. (В течение 3 рабочих дней)",
+
+                "Помощник губернатора направляет уведомление о результате подачи заявления в попечительский совет (причины отказа будут обоснованы). (В течение 5 рабочих дней)",
+
+                "В случае непредставления уведомления о результате обращения или обнаружения необоснованного отказа попечительский совет удовлетворяет апелляцию. (В течение 5 рабочих дней)",
+
+                "Попечительский совет принимает решение о распределении платежа и переводит средства на счет арендодателя. (В течение 3 рабочих дней)",
+
+              "Помощник мэра осуществляет мониторинг фактического эффективного использования арендуемого здания и сооружения. (Хотя бы раз в месяц)",
+
+              "Молодые люди, желающие открыть учебный центр, ориентированный на ИТ, также могут воспользоваться этой возможностью."
+            ],
+            "titleEn":":",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://lex.uz/uz/docs/-6051791?ONDATE=01.01.2024%2000#-6054566",
+            "category": "tadbirkorlik"
+        },
+      {
+            "id": "3",
+            "titleUz":"Nodavlat ta’lim tashkilotlarning maxsus sertifikatini olgan tadbirkorlik tashabbusiga ega jismoniy shaxslar, shu jumladan yoshlar va xotin-qizlar mikrofirma va kichik korxona ta’sis etishi uchun mikrokreditlar:",
+            "descriptionUz":[
+                "O‘z biznesini tashkil etish uchun 33 mln so‘mgacha bo‘lgan miqdordagi mikrokredit ta’minotsiz ajratiladi;",
+
+                " Uchinchi shaxs kafilligi, sug‘urta polislari, kredit hisobiga sotib olinayotgan mol-mulklar garovi, Tadbirkorlik faoliyatini qo‘llab-quvvatlash davlat jamg‘armasining kafilligi va boshqa ta’minot turlari asosida 225 mln so‘mgacha miqdorda mikrokreditlar ajratiladi;",
+
+                " Imtiyozli toifalarga mansub shaxslar imtiyozdan foydalanish yuzasidan tegishli hududlarda faoliyat yurituvchi tijorat banklari (Mikrokreditbank va Xalq banki) filiallariga murojaat qilishlari mumkin; ",
+
+                "Murojaatga talabgor NTTlarning maxsus sertifikati yoki mikrofirma va kichik korxona ta’sis hujjatlari ilova qilishi lozim;",
+
+                "Arizalar 15-30 kun ichida ko‘rib chiqiladi.",
+
+                "AKT sohasida tadbirkorlik faoliyatini boshlash uchun yana bir imkoniyat"
+            ],
+            "titleRu":"Лица с предпринимательской инициативой, в том числе молодые люди и женщины, получившие специальный сертификат негосударственных образовательных организаций микрозаймы для создания микропредприятий и малых предприятий:",
+            "descriptionRu":[
+               "На организацию собственного бизнеса без обеспечения выделяется микрокредит в размере до 33 млн. сумов;",
+
+                "Выделяются микрокредиты в размере до 225 млн. сумов под поручительство третьих лиц, страховые полисы, залог имущества, приобретаемого в кредит, под поручительство Государственного фонда поддержки предпринимательской деятельности и другие виды обеспечения;",
+
+                "Лица, относящиеся к льготным категориям, могут обращаться по поводу пользования льготой в филиалы коммерческих банков (Микрокредитбанка и Народного банка), действующих на соответствующих территориях;",
+
+                "К обращению заявитель должен приложить специальный сертификат НТТ или учредительные документы микрофирмы и малого предприятия;",
+
+                "Заявки будут рассмотрены в течение 15-30 дней.",
+
+                "Еще одна возможность начать предпринимательскую деятельность в сфере ИКТ"
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://www.lex.uz/docs/-5932671?ONDATE=27.04.2024",
+            "category": "tadbirkorlik"
+        },
+      {
+            "id": "4",
+            "titleUz":"Nogironligi bo‘lgan shaxslarga ish o‘rinlari va sharoitlarini moslashtirgan tadbirkorlik subyektlari uchun BHMning 40 baravarigacha subsidiya ajratish mexanizmi:",
+            "descriptionUz":[
+                "Imtiyozdan foydalanish uchun Aholi bandligiga ko‘maklashish markazi (ABKM)ga yozma ravishda murojaat qilinadi.",
+
+                " Murojaatda tashkilotga ishga qabul qilingan nogironligi bo‘lgan shaxslarning:",
+
+                "  F.I.O.;  Ular band bo‘lgan ish o‘rinlarini mehnat sharoitlari yuzasidan davlat ekspertizasi xulosasi;  Ish joylarini nogironligi bo‘lgan shaxslarga moslashtirish uchun sarflangan xarajatlar miqdori to‘g‘risida ma’lumot;  Tashkilotning subsidiya to‘lab berilishi lozim bo‘lgan hisob raqami;  Nogironligi bo‘lgan shaxsning ishga qabul qilinganligi to‘g‘risidagi buyruq nusxasi",
+
+                "ABKMning mas’ul xodimi 3 ish kuni ichida murojaatda ko‘rsatilgan ma’lumotlarni o‘rganib chiqadi.",
+
+                "O‘rganish natijalariga ko‘ra tegishli miqdorda, biroq bazaviy hisoblash miqdorining 40 baravaridan ko‘p bo‘lmagan subsidiya to‘lab berish to‘g‘risida ABKM rahbarining buyrug‘i rasmiylashtiriladi va murojaatchi tashkilotga xabar beriladi. ",
+
+                "Subsidiya ajratish to‘g‘risidagi buyruq qabul qilingach, 3 ish kunidan ko‘p bo‘lmagan muddatda jamg‘arma mablag‘lari hisobidan belgilangan summa murojaat qilgan tashkilotning hisob raqamiga o‘tkaziladi."
+
+                
+            ],
+            "titleRu":"Механизм предоставления до 40-кратной субсидии МСБ субъектам хозяйствования, адаптировавшим рабочие места и условия для лиц с ограниченными возможностями:",
+            "descriptionRu":[
+              "Чтобы воспользоваться льготой, необходимо обратиться в Центр содействия занятости населения (ABKM)в письменной форме.",
+
+                "Лицам с ограниченными возможностями здоровья, принятым на работу в организацию в обращении:",
+
+                "•F.I.O.• Заключение государственной экспертизы условий труда рабочих мест, на которых они заняты; • сведения о сумме затрат, понесенных на приспособление рабочих мест лицам с ограниченными возможностями здоровья; • номер счета организации, по которому должна быть выплачена субсидия; * копия приказа о приеме на работу лица с ограниченными возможностями здоровья",
+
+                "Ответственный сотрудник абкм в течение 3 рабочих дней изучит информацию, указанную в обращении.",
+
+                "По результатам исследования оформляется приказ руководителя АБКМ о выплате субсидии в соответствующей сумме, но не более чем в 40 раз превышающей базовую расчетную сумму, и уведомляется заявительная организация. ",
+
+                "При принятии приказа о выделении субсидии в срок не более 3-х рабочих дней фиксированная сумма из средств Фонда зачисляется на счет организации-заявителя."
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://my.gov.uz/oz/service/641",
+            "category": "tadbirkorlik"
+        },
+      {
+            "id": "5",
+            "titleUz":"Nodavlat ta’lim tashkilotlariga 50 mln so‘mgacha bo‘lgan 1 martalik subsidiyalarni ajratish mexanizmi:",
+            "descriptionUz":[
+                "Subsidiya kamida 6 oy muddat davomida qishloq hududlarida xorijiy tillarni o‘qitish bilan shug‘ullanish sharti bilan ajratiladi",
+
+                " Talabgor subsidiya olish uchun YIDXPda ro‘yxatdan o‘tadi va so‘rovnomani to‘ldiradi. (Har chorak birinchi oyining 10-sanasiga qadar)",
+
+                " So‘rovnoma avtomatik tarzda viloyat hokimligiga yuboriladi.",
+
+                "So‘rovnoma to‘g‘ri to‘ldirilgan va hujjatlar to‘liq ilova qilinganda, YIDXP orqali hujjatlar qabul qilingani to‘g‘risida xabarnoma yuboradi. (1 ish kunida)",
+
+                "Hujjatlarda kamchiliklar aniqlanganda, bu haqda xabarnoma yuboriladi. (1 ish kunida)",
+
+                "So‘rovnoma va unga ilova qilingan hujjatlarni mas’ul tashkilotlarga yuboriladi. (1 ish kunida)",
+
+                "Mavjud ma’lumotlar bazasi orqali so‘rovnoma va unga ilova qilingan hujjatlar o‘rganiladi hamda tegishli ma’lumotlar mahalliy hokimliklarga taqdim etiladi. (Har chorak birinchi oyining 20-sanasiga qadar)",
+
+                "Talabgorlarga baholash jarayoni o‘tkazilishi haqida elektron tarzda yoki boshqa aloqa vositasi orqali xabar beriladi. (Baholash jarayonidan uch kun oldin)",
+
+              "Talabgorlar baholangach ko‘ra subsidiya ajratish yoki rad etish to‘g‘risida qaror qabul qilinadi. (Har chorak birinchi oyining so‘nggi sanasiga qadar)",
+
+              "Subsidiya ajratish rad etilganida sabablar ko‘rsatilib, YIDXP orqali talabgorga yuboriladi. (1 ish kunida)",
+
+              "Baholash natijalari asosida subsidiya ajratish bo‘yicha buyurtmanoma tasdiqlanib (elektron hujjat shaklida QR-kod orqali), Moliya vazirligi G‘aznachiligining hududiy boshqarmasiga yuboriladi. (Har chorak ikkinchi oyining 10-sanasiga qadar)",
+
+              "NTTlarga subsidiya ajratish bo‘yicha har choraklik hisobot Moliya vazirligiga kiritib boriladi. (Har chorak keyingi oyning 25-sanasiga qadar)",
+
+              "Davlat moliyaviy nazorati inspeksiyasi ajratilgan subsidiyaning sarflanishini muntazam ravishda nazorat qiladi."
+            ],
+            "titleRu":"Механизм выделения 1-кратных субсидий негосударственным образовательным организациям до 50 млн. сумов:",
+            "descriptionRu":[
+               "(Субсидия предоставляется при условии, что вы будете заниматься преподаванием иностранных языков в сельских районах не менее 6 месяцев)",
+
+                "Для получения субсидии заявитель регистрируется в Yidxp и заполняет анкету. (До 10 числа первого месяца каждого квартала)",
+
+                "Опрос автоматически направляется в региональную администрацию.",
+
+                "Когда анкета заполнена правильно и документы полностью приложены, он отправляет уведомление о приеме документов через YIDXP. (В 1 рабочий день)",
+
+                "При выявлении недостатков в документации направляется уведомление об этом. (В 1 рабочий день)",
+
+                "Анкета и прилагаемые к ней документы направляются в ответственные организации. (В 1 рабочий день)",
+
+                "Через существующую базу данных будет изучена анкета и прилагаемые к ней документы, а также предоставлена соответствующая информация местным органам власти. (До 20 числа первого месяца каждого квартала)",
+
+                "Кандидаты будут уведомлены о проведении процесса оценки в электронном виде или через другое средство связи. (За три дня до процесса оценки)",
+
+              "После того, как кандидаты будут оценены, будет принято решение о выделении или отказе в субсидии. (До последней даты первого месяца каждого квартала)",
+
+              "В случае отказа в предоставлении субсидии указываются причины и направляются заявителю через YIDXP. (В 1 рабочий день)",
+
+              "По результатам оценки распоряжение о выделении субсидии утверждается (посредством QR-кода в виде электронного документа) и направляется в территориальное управление казначейства Минфина. (Каждый квартал до 10-го числа второго месяца)",
+
+              "Ежеквартальный отчет о выделении субсидий НТТ вносится в Минфин. (Каждый квартал до 25 числа следующего месяца)",
+
+              "Инспекция государственного финансового контроля систематически контролирует расходование выделенной субсидии."
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://lex.uz/uz/docs/-5474568?ONDATE=11.11.2023",
+            "category": "tadbirkorlik"
+        },
+      {
+            "id": "6",
+            "titleUz":"Har yili 100 nafar yosh tadbirkorlarning xalqaro forum va yarmarkalardagi ishtirokini ta’minlash mexanizmi :",
+            "descriptionUz":[
+                "Imtiyozlardan foydalanish uchun Yoshlar ishlari agentligining tegishli shahar yoki tuman bo‘limlariga murojaat qilinadi.",
+
+                "Talabgor murojaatda tadbirkorlik faoliyati va tanlangan tadbirda ishtirok etish yoki imtiyozdan foydalanishga doir salohiyatini tasdiqlovchi hujjatlar taqdim etadi.",
+
+                " Murojaat 15-30 kun ichida ko‘rib chiqiladi va yakuni bo‘yicha xabar beriladi.",
+
+                "Mazkur imtiyozlardan foydalanish uchun nomzodlarning yoshi chegaralanmagan."
+            ],
+            "titleRu":"Механизм обеспечения ежегодного участия 100 молодых предпринимателей в международных форумах и ярмарках:",
+            "descriptionRu":[
+               "Для получения льгот обращаются в соответствующие городские или районные отделы агентства по делам молодежи.",
+
+                "Заявитель представляет в обращении документы, подтверждающие его предпринимательскую деятельность и потенциал для участия в выбранном мероприятии или пользования льготой.",
+
+                "Апелляция будет рассмотрена в течение 15-30 дней и уведомлена о завершении.",
+
+                "Возраст кандидатов на получение этих льгот не ограничен."
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://lex.uz/uz/docs/-4880189",
+            "category": "tadbirkorlik"
+        },
+      {
+            "id": "7",
+            "titleUz":"IT sohasidagi xorijiy investorlar va mutaxassislarga, IT Park rezidentlarining ta’sischilariga O‘zbekiston hududidan chiqmasdan ko‘p martalik “IT-VIZA” berish mexanizmi (muddatini uzaytirish mumkin, amal qilish muddati 3 yilgacha):",
+            "descriptionUz":[
+                "Arizani veb-portal orqali Direksiyaga tavsiya olish uchun barcha zarur hujjatlarni ilova qilgan holda taqdim etiladi. (Zaruratga ko‘ra)",
+
+                "Ariza va hujjatlar qabul qilinib, ularning to‘g‘riligi va to‘liqligi tekshiriladi. ",
+
+                "Ariza to‘ldirishda kamchiliklar bo‘lsa, arizani ko‘rib chiqish rad etiladi. (1 ish kuni ichida)",
+
+                "Tavsiya berish to‘g‘risidagi masalani ko‘rib chiqish uchun ariza va boshqa hujjatlar ekspert guruhiga yuboriladi. (1 ish kuni ichida)",
+
+                "Tavsiya olish uchun arizalar ko‘rib chiqiladi va natijalari bo‘yicha xulosa qabul qilinadi.",
+
+                "Zarur hollarda, murojaatchi bilan masofadan turib suhbat o‘tkaziladi. (20 kun ichida)",
+
+                "Ekspert guruhining xulosasi asosida tavsiyani berish yoki rad etish to‘g‘risida qaror qabul qiladi.",
+
+                "Ariza beruvchining elektron manziliga natija haqida xabarnoma yuboriladi. (1 ish kuni ichida)",
+
+              "Tavsiya rasmiylashtiriladi. (1 ish kuni ichida)",
+
+              "Ariza beruvchi tavsiyani olish uchun murojaat qilganda, tavsiya shaxsni tasdiqlovchi hujjat asosida taqdim etiladi. (Darhol)",
+
+              "O‘zbekiston bilan viza rejimi joriy qilingan mamlakatlarning fuqarosi bo‘lgan ariza beruvchi O‘zbekistonda bo‘lgan taqdirda, «IT-visa»ni rasmiylashtirish uchun ichki ishlar organlariga murojaat qiladi.",
+
+              "Tavsiyalarning yagona elektron reyestriga tegishli ma’lumotlarni kiritiladi. (1 ish kuni ichida)"
+            ],
+            "titleRu":"Механизм выдачи многократных “IT-виз” иностранным инвесторам и специалистам в сфере IT, учредителям резидентов IT-парка без выезда с территории Узбекистана (с возможностью продления, срок действия до 3 лет):",
+            "descriptionRu":[
+               "Заявление подается через веб-портал в дирекцию с приложением всех необходимых документов для получения рекомендации. (По необходимости)",
+
+                "Заявки и документы принимаются и проверяются на правильность и полноту. ",
+
+                "При наличии недостатков в заполнении заявки в рассмотрении заявки будет отказано. (В течение 1 рабочего дня)",
+
+                "Заявление и другие документы для рассмотрения вопроса о рекомендации направляются в экспертную группу. (В течение 1 рабочего дня)",
+
+                "Заявки на получение рекомендации будут рассмотрены, и по результатам будет принято заключение.",
+
+                "При необходимости с заявителем проводится дистанционное собеседование. (В течение 20 дней)",
+
+                "Принимает решение о выдаче или отклонении рекомендации на основании заключения экспертной группы.",
+
+                "Уведомление о результате будет отправлено на электронный адрес заявителя. (В течение 1 рабочего дня)",
+
+              "Рекомендация будет формализована. (В течение 1 рабочего дня)",
+
+              "Когда заявитель обращается за рекомендацией, рекомендация предоставляется на основании документа, удостоверяющего личность. (Немедленно)",
+
+              "В случае нахождения в Узбекистане заявитель, являющийся гражданином стран, где был введен визовый режим с Узбекистаном, обращается в органы внутренних дел для оформления»IT-Visa.",
+
+              "В единый электронный реестр рекомендаций вносится соответствующая информация. (В течение 1 рабочего дня)"
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://lex.uz/docs/-6196871?ONDATE=19.08.2024%2000",
+            "category": "tadbirkorlik"
+        },
+      {
+            "id": "8",
+            "titleUz":"Venchur fondlari, IT-akseleratorlar va dizayn studiyalari IT Park rezidentlariga aylanishi mumkin:",
+            "descriptionUz":[
+                "Endilikda yana uchta qo‘shimcha faoliyat turi kiritildi:",
+
+                "  Multimedia va dizayn, shu jumladan, dasturiy ta’minotdan foydalangan holda animatsion mahsulotlarni ishlab chiqish va xizmatlar ko‘rsatish;  IT-loyihalarni venchur moliyalashtirish va IT Park hududida joylashgan kompaniyalar uchun akseleratsiya dasturini ishga tushirish;  Kibersport yo‘nalishidagi xizmatlar.",
+
+                "O‘zbekistonda animatsiya va multiplikatsiya bilan shug‘ullanuvchi motion-studiyalar ko‘payib bormoqda. Asosan, bu turli kompaniyalar uchun reklama roliklari bo‘lib, asosiy ulush chet eldan qabul qilingan buyurtmalarga to‘g‘ri keladi.",
+
+                "Rezident bo‘lgan bu kabi kompaniyalar o‘z xarajatlarini kamaytirishi va IT xizmatlarining umumiy eksportidagi ulushini oshirishi mumkin.",
+
+                "Venchur fondlariga kelsak, 2023-yilga kelib bu bozorning asosiy trendlaridan biriga aylandi. Nihoyat O‘zbekistonga venchur mablag‘lari keldi, yiliga o‘nlab bitimlar tuzila boshlandi, 10 dan ortiq fondlar mamlakatda faoliyat yuritmoqda.",
+
+                "Akseleratsiya dasturlari bilan bog‘liq holat ham xuddi shunday – agar ilgari mamlakatda bu kabi dasturlar bo‘lmagan bo‘lsa, endilikda bir vaqtning o‘zida bir nechtasi ishga tushirildi"
+            ],
+            "titleRu":"Венчурные фонды, ИТ-акселераторы и дизайн-студии могут стать резидентами ИТ-парка:",
+            "descriptionRu":[
+               "Теперь введены еще три дополнительных вида деятельности:",
+
+                " Разработка анимационных продуктов и предоставление услуг с использованием программного обеспечения, включая мультимедиа и дизайн; • венчурное финансирование ИТ-проектов и запуск программы акселерации для компаний, расположенных в районе IT Park; * услуги в области киберспорта.",
+
+                "В Узбекистане растет число motion-студий, занимающихся анимацией и мультипликацией. В основном это рекламные ролики для разных компаний, причем основная доля приходится на заказы, полученные из-за рубежа.",
+
+                "Такие компании-резиденты могут снизить свои расходы и увеличить свою долю в общем экспорте ИТ-услуг.",
+
+                "Что касается венчурных фондов, к 2023 году это стало одной из основных тенденций на рынке. Наконец-то в Узбекистан пришли венчурные фонды, стали заключаться десятки сделок в год, в стране действуют более 10 фондов.",
+
+                "То же самое и с программами акселерации – если раньше в стране не было подобных программ, то теперь запускается сразу несколько"
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://soliq.uz/press-services/news/show/-yoshgacha-bolgan-xodimlarga-tolangan-ijtimoiy-soliq-summasini-qaytarishga-ariza-berish-tartibi-qanday",
+            "category": "tadbirkorlik"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "data" :[
+        {
+            "id":1,
+            "titleUz":"O‘zbek nutq sintezatori va boshqa semantik-eshitish vositalari uchun maxsus kompleks dastur",
+            "descriptionUz":[
+                "Muxlisa ovozli yordamchi O‘zbek tilidagi nutqni sifatli va til qoidalariga asoslangan holda matnga o‘giradi",
+
+                " O‘zbek nutqning talaffuz me’yorlari va lingvistik imkoniyatlarini hisobga olgan holda bevosita nutqdan foydalangan holda matnlarni hosil qilish.",
+
+                "Yig‘ilish, uchrashuvlar va boshqa shu kabi jarayonlarning bayonlarini (protokollar) tuzishni avtomatlashtirish. Aqlli uy, aqlli qurilmalar va kompyuter tizimlarini boshqarishda o‘zbek tilida buyruqlarni yaratish. ",
+
+                "Interaktiv ovozli tizimlar yaratishda tabiiy o‘zbek tili talaffuzida ovozlarni hosil qilish.",
+
+                "Turli xil davlat va xususiy tadbirkorlar xizmatlarini mijozlarga taqdim etishda xizmatlar haqidagi ma’lumotlarni ovozli tarzda yetkazish.",
+
+                "Turli xil adabiyotlarning audio talqinlarini yaratish.",
+
+                "Har bir kilometr uchun BHMning 0,2 foizidan oshmasligi lozim. Bunda kilometr miqdori 500 metr va undan ortiq bo‘lgan hollarda — ko‘p tomonga, kilometr miqdori 500 metrdan kam bo‘lgan hollarda — kam tomonga yaxlitlanadi. (3 ish kuni mobaynida ariza ko‘rib chiqiladi) ",
+
+                "Mahalladagi yoshlar yetakchisi arizachining ijara shartnomasida ko‘rsatilgan manzilda yashashi, o‘qishiga tegishli transportda qatnashini joyiga chiqib o‘rganadi.",
+
+                "Ariza beruvchiga subsidiya ajratish yoki rad etish haqida tavsiyani YIAning tuman (shahar) bo‘limiga elektron shaklda yuboradi. (5 kun)",
+
+                "Mahalladagi yoshlar yetakchisining tavsiyasini ilova qilgan holda ariza beruvchiga yashash va transport xarajati uchun subsidiya ajratish yoki rad etish to‘g‘risida Yoshlar ishlari agentligiga so‘rov yuboradi. (2 kun)",
+
+                "Taqdim etilgan tavsiyaga asosan ariza beruvchiga subsidiyani to‘lash yoki uni rad etish to‘g‘risida qaror qabul qiladi, bu haqida elektron tizimga ma’lumot kiritadi hamda ariza beruvchiga SMS-xabarnoma yuboradi."
+            ],
+            "titleRu":"Специальная комплексная программа для синтезатора узбекской речи и других семантико-слуховых аппаратов",
+            "descriptionRu":[
+               "Веер голосового помощника переводит узбекскую речь в текст на основе качества и языковых правил",
+
+                "Формирование текстов с использованием непосредственной речи с учетом норм произношения и языковых возможностей узбекской речи.",
+
+                "Автоматизация составления протоколов заседаний, совещаний и других подобных процессов. Создание команд на узбекском языке при управлении умным домом, умными устройствами и компьютерными системами. ",
+
+                "Формирование звуков в произношении естественного узбекского языка при создании интерактивных звуковых систем.",
+
+                "Передача информации об услугах вслух при предоставлении клиентам различных государственных и частных услуг.",
+
+                "Создание аудио интерпретаций различной литературы.",
+
+                "Не более 0,2% BHM на километр. При этом в случаях, когда количество километров составляет 500 метров и более — округляется в большую сторону, а в случаях, когда количество километров меньше 500 метров — округляется в меньшую сторону. (В течение 3 рабочих дней заявка будет рассмотрена) ",
+
+                "Молодежный лидер в махалле выезжает на место, чтобы узнать, живет ли заявитель по адресу, указанному в договоре аренды, участвует в транспорте, связанном с его обучением.",
+
+                "Направляет в районный (муниципальный) отдел Ия в электронном виде рекомендацию о предоставлении или отказе в субсидии заявителю. (5 дней)",
+
+                "Направляет запрос в агентство по делам молодежи о предоставлении или отказе заявителю в субсидии на проживание и транспортные расходы с приложением рекомендации молодежного лидера в районе. (2 дня)",
+
+                "На основании представленной рекомендации принимает решение о выплате субсидии заявителю или об отказе в ней, вносит информацию об этом в электронную системую и отправляет заявителю СМС-уведомление."
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://muxlisa.uz/#home",
+            "category": "nogironligiborlar"
+        },
+        {
+            "id":2,
+            "titleUz" :"Ijtimoiy xizmat yagona interaktiv tibbiy va ijtimoiy xizmatlar platformasi",
+            "descriptionUz":[
+                "Nogironligi bor shaxslar portalda ro‘yxatdan o‘tib, ta’lim, mehnat, madaniyat va turizm, tibbiyot bilan bog‘liq imkoniyatlar bilan tanishish va foydalanish mumkin."
+            ],
+            "titleRu":"Социальная служба единая интерактивная платформа медицинских и социальных услуг",
+            "descriptionRu":[
+                "Лица с ограниченными возможностями здоровья могут зарегистрироваться на портале и получить доступ к возможностям, связанным с образованием, трудом, культурой и туризмом, медициной."
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://ijtimoiy-xizmat.uz/uz/privacy-policy/beruvchilarga",
+            "category": "nogironligiborlar"
+        },
+        {
+            "id": 3,
+            "titleUz":"Nogironligi bo‘lgan shaxslarni ishga qabul qilgan ish beruvchilar uchun subsidiya ajratish mexanizmi",
+            "descriptionUz":[
+                "Ish beruvchi tuman (shahar) aholi bandligiga ko‘maklashish markaziga (ABKM) zarur hujjatlarni ilova qilgan holda murojaat qiladi.",
+
+              "ABKM murojaatni o‘rganib chiqib, subsidiya ajratish yoki ajratishni rad etish to‘g‘risida qaror qabul qiladi. (3 ish kuni)",
+
+              "ABKM ishga qabul qilingan nogironligi bo‘lgan shaxslarning haqiqatdan ishlayotganligini monitoring qilib boradi. (Har oy yakunida)",
+
+              "ABKM ijobiy qaror qabul qilingan taqdirda, subsidiyani ish beruvchining hisobvarag‘iga to‘lab beradi. (Har oy uchun keyingi oyda) (6 oy davomida)"
+            ],
+            "titleRu":"Механизм предоставления субсидий работодателям, принимающим на работу лиц с ограниченными возможностями",
+            "descriptionRu":[
+                "Работодатель обращается в районный (городской) Центр содействия занятости населения (ЦОП) с приложением необходимых документов.",
+
+              "ABKM изучит апелляцию и примет решение о выделении субсидии или об отказе в выделении. (3 рабочих дня)",
+
+              "ABKM следит за тем, чтобы лица с ограниченными возможностями, принятые на работу, действительно работали. (В конце каждого месяца)",
+
+              "В случае положительного решения ABKM выплатит субсидию за счет работодателя. (В следующем месяце для каждого месяца) (в течение 6 месяцев)"
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+              
+            ],
+            "linkToService" : "https://my.gov.uz/oz/service/641",
+            "category": "nogironligiborlar"
+        },
+       {
+            "id":4,
+            "titleUz":"Nogironligi bo‘lgan yoshlarga (500 nafar) o‘qish davrida yashash va transport xarajatlari uchun subsidiya",
+            "descriptionUz":[
+                "Subsidiya ajratish uchun YIDXPda ro‘yxatdan o‘tiladi va so‘rovnoma yuboriladi",
+
+                " Talim-krediti.uz saytida ro‘yxatdan o‘tib, onlayn ariza yuboriladi. ",
+
+                "Subsidiya miqdori bir sutkada ijarada yashash uchun bazaviy hisoblash miqdorining 10 foizidan oshmasligi lozim. ",
+
+                "Subsidiya miqdori bir sutkada ijarada yashash uchun bazaviy hisoblash miqdorining 10 foizidan oshmasligi lozim. ",
+
+                "Har bir kilometr uchun BHMning 0,2 foizidan oshmasligi lozim. Bunda kilometr miqdori 500 metr va undan ortiq bo‘lgan hollarda – ko‘p tomonga, ",
+
+                "Kilometr miqdori 500 metrdan kam bo‘lgan hollarda – kam tomonga yaxlitlanadi. (3 ish kuni mobaynida ariza ko‘rib chiqiladi)",
+
+                "Mahalladagi yoshlar yetakchisi arizachining ijara shartnomasida ko‘rsatilgan manzilda yashashi, o‘qishiga tegishli transportda qatnashini o‘rganadi.",
+
+                "Ariza beruvchiga subsidiya ajratish yoki rad etish haqida tavsiyani YIAning tuman (shahar) bo‘limiga elektron shaklda yuboriladi. (5 kun)",
+
+                "Mahalladagi yoshlar yetakchisining tavsiyasini ilova qilgan holda ariza beruvchiga subsidiya ajratish yoki rad etish to‘g‘risida Yoshlar ishlari agentligiga so‘rov yuboradi. (2 kun)",
+
+                "Taqdim etilgan tavsiyaga asosan ariza beruvchiga subsidiyani to‘lash yoki uni rad etish to‘g‘risida qaror qabul qilinadi, bu haqida elektron tizimga ma’lumot kiritiladi hamda  ariza beruvchiga SMS-xabarnoma yuboriladi."
+            ],
+            "titleRu":"Субсидия молодым людям с ограниченными возможностями здоровья (500 человек) на проживание и транспортные расходы в период обучения",
+            "descriptionRu":[
+               "Для выделения субсидии регистрируется в ЕБРР и направляется анкета",
+
+                "Talim-krediti.uz регистрация на сайте и отправка онлайн-заявки. ",
+
+                "Размер субсидии не должен превышать 10% от базового расчета на проживание в арендуемой квартире в сутки. ",
+
+                "Размер субсидии не должен превышать 10% от базового расчета на проживание в арендуемой квартире в сутки. ",
+
+                "Не более 0,2% BHM на километр. В случаях, когда количество километров составляет 500 метров и более – во многих направлениях,",
+
+                "в случаях, когда количество километров меньше 500 метров – округляется в меньшую сторону. (В течение 3 рабочих дней заявка будет рассмотрена)",
+
+                "Молодежный лидер в районе изучает, живет ли заявитель по адресу, указанному в договоре аренды, участвует в транспорте, связанном с его обучением.",
+
+                "Рекомендация заявителю о выделении или отказе в субсидии направляется в районный (муниципальный) отдел иа в электронном виде. (5 дней)",
+
+                "Направляет запрос в агентство по делам молодежи о предоставлении или отказе в субсидии заявителю с приложением рекомендации молодежного лидера в районе. (2 дня)",
+
+                "На основании представленной рекомендации принимается решение об отказе заявителю в выплате субсидии, о чем вносится информация в электронную систему и направляется заявителю SMS-уведомление."
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://my.gov.uz/oz/service/629",
+            "category": "nogironligiborlar"
+        }
+    ]
+}

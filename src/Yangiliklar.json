@@ -1,0 +1,58 @@
+{
+    "data" : [
+        {
+            "id":1,
+            "image":"https://www.gazeta.uz/media/img/2024/02/sdtnN217086189264000_b.jpg",
+            "title":"IT sohasida Zero Risk, Local to Global dasturlari amalga oshiriladi",
+            "description":"Prezidentga IT sohasi bo‘yicha uchta dastur taqdim etildi. Zero Risk IT xizmatlari eksport qiluvchilarni jalb qilishga qaratilgan. Local to Global IT kompaniyalarga jahon bozoriga kirishda yordam beradi. “Raqamli inklyuzivlik” loyihasi yoshlar, ayollar va imkoniyati cheklangan shaxslarni IT`ga o‘rgatadi."
+        },
+        {
+            "id":2,
+            "image":"https://it-park.uz/storage/images/news/normal/umJ0fZoCt9KRWqLNaeF7cSioYk0pmU7h44KfIDKM.jpg",
+            "title":"Turkiyaning “Tempo BPO” kompaniyasi oʻzbekistonlik IT-mutaxassislarni jalb etishni koʻrib chiqmoqda",
+            "description":"IT Park Uzbekistan bosh direktori Farhod Ibragimov boshchiligidagi delegatsiya Istanbulga amaliy tashrifi doirasida Turkiyaning “Tempo BPO” kompaniyasi vakillari, direktorlar kengashi aʼzosi janob Jamol rahbarligida uchrashuv oʻtkazdi."
+        },
+        {   
+            "id":3,
+            "image":"https://daryo.uz/static/2024/05/16/imzo-Ucweeyyy.jpg",
+            "title":"O‘zbekistonda IT-shaharchalar tashkil etiladi",
+            "description":"Qarorga ko‘ra, hududlarda yoshlarni raqamli texnologiyalar va xorijiy tillarga o‘qitishga yo‘naltirilgan IT-shaharchalar tashkil etiladi. Quyidagilar IT-shaharchalarning asosiy faoliyat yo‘nalishlari etib belgilandi"
+        },
+        {   
+            "id":4,
+            "image":"https://daryo.uz/static/2024/04/22/photo_2024-04-22_16-19-07-DXb-h5VS.jpg",
+            "title":"Farg‘onalik IT-mutaxassis qizlar uchun texnologiya sohasidagi imkoniyatlar haqida",
+            "description":"“Technovation Girls” dasturi mentori va kiberxavfsizlik bo‘yicha loyiha menejeri Darya Soy o‘z tajribasi bilan o‘rtoqlashar ekan, IT sohasida xotin-qizlar loyihalarini qo‘llab-quvvatlashning muhimligi haqida gapirdi.  "
+        },
+        {   
+            "id":5,
+            "image":"https://itnews.pro/media/files/pictures/cover/123_kLevWd4.webp",
+            "title":"Intel Yaponiyaning AIST instituti bilan hamkorlikda ilg‘or chiplar ishlab chiqarish markazini ishga tushiradi",
+            "description":"Intel korporatsiyasi va Yaponiyaning ilg‘or sanoat fanlari va texnologiyalari milliy instituti (AIST) Yaponiyada chip ishlab chiqarish bo‘yicha tadqiqot va ishlanmalar markazini tashkil etish bo‘yicha kelishuvga erishdi. Bu Yaponiyadagi ekstremal ultrabinafsha (EUV) litografiya uskunalari bilan jihozlangan birinchi markaz bo'ladi."
+        },
+        {   
+            "id": 6,
+            "image":"https://www.gazeta.uz/media/img/2023/12/6ISB6p17030724205993_b.jpg",
+            "title": "2024-yilda IT xizmatlarini rivojlantirish uchun 65 mlrd so‘m ajratiladi",
+            "description":"2024-yildan IT kompaniyalari bo‘sh turgan binolarga bir yil muddatga bepul joylashtiriladi. 50 dan ortiq mutaxassisni ishli qilgan kompaniyalarning bir yillik ish haqi xarajatining 15 foizgacha qismi qoplab beriladi. Shavkat Mirziyoyev soha uchun 65 mlrd so‘m ajratilishini ma’lum qildi."
+        },
+        {   
+            "id":7,
+            "image":"https://www.gazeta.uz/media/img/2024/09/xS0F3S17256073877061_m.jpg",
+            "title":"Sliva.app Telegram boti orqali kompaniyalar xizmatlarini onlayn band qilish mumkin",
+            "description":"Sliva.app orqali mijozlar tadbirkor va kompaniyalarning xizmatlari va ish vaqti haqida ma’lumot olish, shuninglek, ushbu xizmatlarni onlayn band qilishni Telegram boti yordamida amalga oshirishi mumkin."
+        },
+        {
+            "id":8,
+            "image" : "https://www.gazeta.uz/media/img/2024/08/qQ7AsH17242307322029_m.jpg",
+            "title": "Fido-Biznes va IsBF birgalikda O‘zbekistonda islomiy moliyani rivojlantiradi",
+            "description":"Fido-Biznes IT-kompaniyasi Islamic Business and Finance bilan hamkorlikda O‘zbekistonda islom moliyalasini rivojlantirish bo‘yicha memorandum imzoladi."
+        },
+        {
+            "id":9,
+            "image" : "https://www.gazeta.uz/media/img/2024/08/qQ7AsH17242307322029_m.jpg",
+            "title": "Fido-Biznes va IsBF birgalikda O‘zbekistonda islomiy moliyani rivojlantiradi",
+            "description":"Fido-Biznes IT-kompaniyasi Islamic Business and Finance bilan hamkorlikda O‘zbekistonda islom moliyalasini rivojlantirish bo‘yicha memorandum imzoladi."
+        }
+    ]
+}

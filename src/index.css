@@ -1,0 +1,106 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import url("https://fonts.googleapis.com/css2?family=Marck+Script&family=Mulish:wght@200&family=Vollkorn&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Marck+Script&family=Montserrat&family=Mulish:wght@200&family=Vollkorn&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Marck+Script&family=Montserrat:wght@400;900&family=Mulish:wght@200&family=Vollkorn&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Marck+Script&family=Montserrat:ital,wght@0,400;0,600;1,700&family=Mulish:wght@200&family=Vollkorn&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import 'froala-editor/css/froala_editor.pkgd.min.css';
+@import 'froala-editor/css/froala_style.min.css';
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat";
+}
+.custom-quill .ql-container {
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+
+}
+/* styles.css */
+.ant-popover {
+color: rgb(16, 24, 40);
+}
+
+.ant-popover-inner {
+ color: rgb(16, 24, 40);
+  color: white;
+}
+
+.ant-popover-inner-content {
+  color: white;
+}
+
+.ant-popover-arrow {
+  border-color: rgb(16, 24, 40);
+}
+
+.mark {
+  color: #fff;
+  font-family: "Marck Script";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.swiper-slide {
+  display: flex !important;
+  justify-content: center !important;
+}
+.css-1u9des2-indicatorSeparator {
+  display: none;
+}
+.character {
+  width: 54px;
+  height: 54px;
+  border-radius: 12px;
+  border: 1px solid rgba(22, 22, 22, 0.1);
+  background: #f9f9f9;
+  margin-right: 10px;
+}
+
+
+/* Style the displayed selected value */
+.ant-select-selector {
+  background-color: inherit !important;
+  color: #161616 !important;
+  border: none !important;
+  outline: none !important;
+}
+.ant-select-selector:hover {
+  border: none !important;
+  outline: none !important;
+}
+/* Dropdown styles */
+.custom-dropdown .ant-select-item-option {
+  transition: background-color 0.3s ease;
+  color: #161616 !important;
+}
+
+.custom-dropdown .ant-select-item-option:hover {
+  filter: brightness(1.2);
+  color: #161616 !important;
+  border: none !important;
+  outline: none !important;
+}
+
+/* Select option color - make these more specific */
+.ant-select-dropdown .ant-select-item-option-selected {
+  color: #161616 !important;
+  outline: none !important;
+  border: none !important;
+}
+
+.ant-select-dropdown .ant-select-item-option {
+  color: #161616 !important;
+  border: none !important;
+}
+
+.ant-select-dropdown .ant-select-item {
+  color: #161616 !important;
+}
+
+.ant-select-selection-item {
+  color: #161616 !important;
+}

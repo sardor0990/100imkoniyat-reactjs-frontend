@@ -1,0 +1,88 @@
+{
+    "data":[
+        {
+            "id":1,
+            "titleUz":"Xalqaro IT sertifikat yoki o‘qishga sarflangan xarajatlarning 50%ini qoplab berish mexanizmi",
+            "descriptionUz":[
+                "Talabgor sertifikat berilgan sanadan boshlab 180 kun mobaynida YIDXP orqali murojaat qoldiradi. (Xalqaro IT-sertifikat, to‘lov kvitansiya nusxalari, mablag‘lar yo‘naltiriladigan hisobvaraq haqidagi ma’lumotlar, o‘quv kursi tamomlanganini tasdiqlovchi hujjatlar)",
+
+                "Ishchi organ 5 ish kunida hujjatlarni ko‘rib chiqadi hamda xalqaro IT-sertifikatni verifikasiyadan o‘tkazadi (sertifikatning haqiqiyligi tasdiqlanmaganda 1 ish kunida bu haqida talabgorga SMS xabar yuboriladi)",
+
+                "Hujjatlar umumlashtirilib, moliyalashtirish yuzasidan takliflar vakolatli organga kelishish uchun kiritiladi. (5 ish kun)",
+
+                "Xarajatlarni moliyalashtirish yuzasidan kiritilgan takliflar kelishib beriladi. (3 ish kuni)",
+
+                "Talabgor ko‘rsatgan hisobvaraqqa tegishli pul mablag‘lari yo‘naltiriladi. (4 ish kun)"
+            ],
+            "titleRu":"Механизм компенсации 50% расходов на международный IT-сертификат или обучение",
+            "descriptionRu":[
+                "Заявитель оставляет заявку через YIDXP в течение 180 дней с даты выдачи сертификата. (Международный IT-сертификат, копии квитанций оплаты, информация о счете, на который направляются средства, документы, подтверждающие завершение курса обучения)",
+
+                "Рабочий орган в течение 5 рабочих дней рассматривает документы и подвергает международный IT-сертификат верификации (если подлинность сертификата не подтверждена, в течение 1 рабочего дня отправляется SMS-сообщение заявителю)",
+
+                "Документы обобщаются и для рассмотрения предложений по финансированию подаются в уполномоченный орган. (5 рабочих дней)",
+
+                "Рассмотренные предложения по финансированию расходов одобряются. (3 рабочих дня)",
+
+                "Средства направляются на счет, указанный заявителем. (4 рабочих дня)"
+            ],
+            "titleEn":"Mechanism for Compensating 50% of Expenses for an International IT Certificate or Education",
+            "descriptionEn":[
+                "The applicant submits an application through YIDXP within 180 days of the certificate issuance date. (International IT certificate, payment receipt copies, information about the account to which the funds are directed, documents confirming the completion of the training course)",
+
+                "The working body reviews the documents and verifies the international IT certificate within 5 working days (if the authenticity of the certificate is not confirmed, an SMS message is sent to the applicant within 1 working day)",
+
+                "Documents are summarized and submitted to the authorized body for consideration of financing proposals. (5 working days)",
+
+                "Financing proposals are approved. (3 working days)",
+
+                "Funds are directed to the account specified by the applicant. (4 working days)"
+            ]
+        },
+        {
+            "id":2,
+            "titleUz":"Xorijiy til bo‘yicha C1 darajani olgan yoshlarga 100% xarajatini qoplab berish mexanizmi",
+            "descriptionUz":[
+                "Yoshlar ishlari agentligiga (YIA) murojaat qilinadi (sertifikat berilgan sanadan boshlab 180 kun mobaynida hujjatlar ilova qilingan holda onlayn ariza yuboriladi)",
+
+                "YIA sertifikatni verifikatsiyadan o‘tkazadi. (15–30 ish kuni mobaynida)",
+
+                "Talabgorning hisob varag‘iga elektron reyestrga muvofiq kompensatsiya to‘lab berilishi haqida SMS xabar yuboriladi. (15 kun mobaynida)",
+
+                "Sertifikatning haqiqiyligi tasdiqlanmaganda bu haqda idoralararo elektron tizimga ma’lumot kiritiladi va ariza beruvchiga SMS xabar yuboriladi. (1 kun mobaynida)",
+
+                "Ariza beruvchining kompensatsiya pulini olishga bo‘lgan huquqini tasdiqlagan holda ushbu kompensatsiya to‘lovini amalga oshiradi.",
+
+                " С1 daraja sertifikati uchun qilingan xarajat to‘liq qaytariladi. (Ariza beruvchiga SMS xabar yuborilgandan so‘ng bankka murojaat qilinganda) "
+            ],
+            "titleRu":"Механизм компенсации 100% расходов для молодежи, получившей уровень C1 по иностранному языку",
+            "descriptionRu":[
+                "Обращение направляется в Агентство по делам молодежи (YIA) (в течение 180 дней с даты выдачи сертификата с приложенными документами онлайн-заявка)",
+
+                "YIA подвергает сертификат верификации. (в течение 15-30 рабочих дней)",
+
+                "Отправляется SMS-сообщение о компенсации на счет заявителя в соответствии с электронным реестром. (в течение 15 дней)",
+
+                "Если подлинность сертификата не подтверждена, информация об этом вносится в межведомственную электронную систему и отправляется SMS-сообщение заявителю. (в течение 1 дня)",
+
+                "Выплачивается компенсация, подтверждая право заявителя на получение компенсации.",
+
+                "Полностью возвращается расход на сертификат С1 уровня. (после отправки SMS-сообщения заявителю, при обращении в банк)"
+            ],
+            "titleEn":"Mechanism for Compensating 100% of Expenses for Young People Who Have Obtained a C1 Level in a Foreign Language",
+            "descriptionEn":[
+                "An application is submitted to the Youth Affairs Agency (YIA) (within 180 days of the certificate issuance date with attached documents online application)",
+
+                "YIA verifies the certificate. (within 15-30 working days)",
+
+                "An SMS message is sent about the compensation to the applicant's account in accordance with the electronic register. (within 15 days)",
+
+                "If the authenticity of the certificate is not confirmed, information about this is entered into the interagency electronic system and an SMS message is sent to the applicant. (within 1 day)",
+
+                "The compensation is paid, confirming the applicant's right to receive compensation.",
+
+                "The full cost of the C1 level certificate is refunded. (after sending an SMS message to the applicant, when applying to the bank)"
+            ]
+        }
+    ]
+}

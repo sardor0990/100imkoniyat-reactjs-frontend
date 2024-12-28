@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "image":"https://it-park.uz/storage/images/news/normal/KlHEztfwawUk9q5g6z53Q3o4qUuk8eBtidwKhkf4.jpg",
+            "title": "Startaplar uchun xalqaro “Pitch Sessions”: “ICT Week 2024” doirasida rivojlanish uchun yangi imkoniyatlar ",
+            "description":"2024-yil 17 va 18-sentyabr kunlari “Startup & Venture Summit 2024” tadbiri doirasida xalqaro “Pitch Sessions” oʻtkaziladi, unda butun dunyo boʻylab loyihalar oʻz gʻoyalarini yetakchi mutaxassislar, investorlar va potensial hamkorlar oldida taqdim etish uchun noyob imkoniyatga ega boʻladilar."
+        },
+        {
+            "id": 2,
+            "image":"https://it-park.uz/storage/images/news/normal/Tbp7g2f7mPRkTTg0GdcB3MCZEoEU2PXREVaDzepi.jpg",
+            "title": "Local2Global: IT Park Uzbekistan va KOICA yangi imkoniyatlar eshigini ochmoqda",
+            "description":"IT Park Uzbekistan Koreya xalqaro hamkorlik agentligi (KOICA) bilan hamkorlikda, mahalliy IT-kompaniyalar uchun “Local2Global” dasturi doirasida ikki kunlik oʻquv seminarini muvaffaqiyatli oʻtkazdi. 7-8-avgust kunlari boʻlib oʻtgan ushbu tadbir Koreyada oʻz IT-biznesini kengaytirish va koreyalik hamkorlar bilan mustahkam ishbilarmonlik aloqalarini oʻrnatishga intilayotgan IT Park Uzbekistan rezidentlarini birlashtirdi."
+        },
+        {
+            "id": 3,
+            "image":"https://it-park.uz/storage/images/news/normal/7BEzwgea4qur71rD21gJwPWtHgH77TU1oteUbVBK.jpg",
+            "title": "Uzbek-Korean IT Business Alliance: ikki tomonlama hamkorlikning yangi bosqichi",
+            "description":"IT Park Uzbekistanʼda xizmatlar eksportini rivojlantirish boʻyicha direktor Maxliyo Muksinova boshchiligida Koreyaning sakkizta yetakchi kompaniyalaridan iborat “UZBEK-KOREAN IT BUSINESS ALLIANCE” delegatsiyasi bilan uchrashuv boʻlib oʻtdi."
+        },
+        {
+            "id": 4,
+            "image":"https://www.gazeta.uz/media/img/2023/12/6ISB6p17030724205993_b.jpg",
+            "title": "2024-yilda IT xizmatlarini rivojlantirish uchun 65 mlrd so‘m ajratiladi",
+            "description":"2024-yildan IT kompaniyalari bo‘sh turgan binolarga bir yil muddatga bepul joylashtiriladi. 50 dan ortiq mutaxassisni ishli qilgan kompaniyalarning bir yillik ish haqi xarajatining 15 foizgacha qismi qoplab beriladi. Shavkat Mirziyoyev soha uchun 65 mlrd so‘m ajratilishini ma’lum qildi."
+        },
+        {
+            "id": 5,
+            "image":"https://www.gazeta.uz/media/img/2024/08/HdEd7K17228641388281_b.jpg",
+            "title": "Toshkenda IT mutaxassislari uchun ilhomlantiruvchi tadbir bo‘lib o‘tdi",
+            "description":"13-iyul kuni IT Park University Open Day tadbirida o‘z eshiklarini hamma uchun keng ochdi. 200 dan ortiq abituriyentlar, ularning ota-onalari, IT mutaxassislari va talabalar universitetning zamonaviy ta’lim dasturlari haqida ma’lumot olish, xalqaro ekspertlar bilan suhbatlashish va ishga joylashish imkoniyatlarini o‘rganish uchun yig‘ildi. Jarayonni sizga hikoya qilamiz."
+        },
+        {
+            "id": 6,
+            "image":"https://www.gazeta.uz/media/img/2024/07/7oZuyP17217422374355_m.jpg",
+            "title": "IT Park University va Women in Tech IT sohasidagi ayollarni qo‘llab-quvvatlash uchun kuchlarini birlashtiradi",
+            "description":"IT Park University, Women in Tech vakillari va IT Park University talabalari o‘rtasida uchrashuv bo‘lib o‘tdi. Tadbir doirasida Women in Tech`ning maqsadlari va yaqin rejalari ham taqdim etildi."
+        },
+        {
+            "id": 7,
+            "image":"https://www.gazeta.uz/media/img/2024/04/Ky7wRP17143905935847_m.jpg",
+            "title": "Toshkentda may-avgust oylarida “Bitiruvchi va talaba-yoshlar” loyihasi o‘tkaziladi",
+            "description":"Toshkent shahrida may-avgust oylarida 1 mln kishini qamrab olishi kutilayotgan “Bitiruvchi va talaba-yoshlar” loyihasi o‘tkaziladi. Bunda yoshlarning bandligiga ko‘maklashish, tadbirkorlikni qo‘llab-quvvatlash, IT va zamonaviy biznes sohalariga yo‘naltirishga oid 60 dan ortiq tadbir o‘tkazish belgilangan."
+        },
+        {
+            "id": 8,
+            "image":"https://www.gazeta.uz/media/img/2022/10/iPKMGw16672155724836_b.jpg",
+            "title": "Tad Industries Dubaydagi Future Innovation Summit`da ishtirok etdi",
+            "description":"Tad Industries kompaniyasi FaceIDS dasturining imkoniyatlarini namoyish etdi va Smart and Secure City yo‘nalishi bo‘yicha Best Solution of the Year 2022 mukofoti bilan taqdirlandi."
+        }
+    ]
+}

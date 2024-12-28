@@ -1,0 +1,64 @@
+{
+    "data" : [
+        {
+            "id":1,
+            "titleUz":"Xotin-qizlarga tadbirkorlikni yo‘lga qo‘yish uchun 3 yilgacha va 6 oygacha imtiyozli davr bilan yillik 14 foiz stavkada 33 million so‘mgacha kreditlar ajratish imkoniyati",
+            "descriptionUz" : [
+                "Tadbirkorlik qilish istagi bo‘lgan xotin-qizlarning manzilli ro‘yxatlarini shakllantiriladi.",
+
+                "Shakllantirilgan ro‘yxat asosida kasb yo‘nalishi bo‘yicha o‘quv kurslarini o‘tagan xotin-qizlarga kredit olish uchun tavsiyanoma beriladi.",
+                
+                "Berilgan tavsiyanomalar asosida ularning qiziqishi bo‘yicha bankning namunaviy biznes rejalarini taklif etish va kredit ajratiladi",
+
+                "Ajratilgan kreditlarning sarflanishini doimiy o‘rganish va tadbirkorlik yo‘nalishida yuzaga keladigan muammolarga amaliy yordam berib boriladi."
+            ],
+            "titleRu":"Предоставление женщинам возможность получения кредита на развитие предпринимательства с льготным периодом до 3 лет и 6 месяцев по годовой ставке 14% до 33 млн сум",
+            "descriptionRu" : [
+                "Формируются адресные списки женщин, желающих заниматься предпринимательством.",
+
+                "На основе сформированных списков женщин, прошедших обучение по направлению профессии, выдается рекомендация для получения кредита.",
+                
+                "На основе выданных рекомендаций предлагаются типовые бизнес-планы банка в соответствии с их интересами и выдается кредит",
+
+                "Проводится постоянный мониторинг использования выданных кредитов и оказывается практическая помощь в решении проблем, возникающих в направлении предпринимательства."
+            ],
+            "titleEn":"Providing women with the opportunity to obtain a loan for entrepreneurship development with a preferential period of up to 3 years and 6 months at an annual rate of 14% up to 33 million sum",
+            "descriptionEn" : [
+                "Address lists of women wishing to engage in entrepreneurship are formed.",
+
+                "Based on the formed lists, women who have undergone training in the direction of their profession are given a recommendation for obtaining a loan.",
+                
+                "Based on the recommendations issued, the bank's sample business plans are offered in accordance with their interests, and a loan is issued",
+
+                "Continuous monitoring of the use of issued loans is carried out, and practical assistance is provided in solving problems arising in the direction of entrepreneurship."
+            ]
+        },
+        {
+            "id":2,
+            "titleUz":" Qishloq joylaridagi ayollarni kasbga o‘qitish, tadbirkorlikka jalb qilish va ish bilan ta’minlash maqsadida 2023-yildan har yili nodavlat tashkilotlarga BHMning 7 ming baravari miqdorigacha grantlar ajratish imkoniyati",
+            "descriptionUz": [
+                " Qishloq joylaridagi ayollarni kasbga o‘qitish, tadbirkorlikka jalb qilish va ish bilan ta’minlash loyihalarini amalga oshirish maqsadida 2023-yildan boshlab:",
+
+                "-    har yili nodavlat tashkilotlarga bazaviy hisoblash miqdorining 7 ming baravari miqdorigacha grantlar berish uchun budjetdan kamida 50 mlrd so‘m Oila va xotin-qizlarni qo‘llab-quvvatlash davlat maqsadli jamg‘armasiga ajratib boriladi;",
+
+                "-    tuman (shahar) sektor shtablari joylashgan binolarning kamida bittadan xonasida o‘quv kurslarini o‘tkazish uchun zarur sharoitlar yaratilishi zarur."
+            ],
+            "titleRu":"Предоставление возможности для женщин в сельских местностях обучаться профессии, привлекаться к предпринимательству и обеспечиваться работой с 2023 года, начиная с ежегодного выделения грантов до 7 тысяч базовых расчетных единиц для неправительственных организаций",
+            "descriptionRu" : [
+                "Для реализации проектов по обучению женщин в сельских местностях профессии, привлечению к предпринимательству и обеспечению работой с 2023 года:",
+
+                "-    ежегодно для неправительственных организаций выделяется не менее 50 млрд сум из бюджета Фонда государственной поддержки семьи и женщин для предоставления грантов до 7 тысяч базовых расчетных единиц;",
+
+                "-    необходимо создавать условия для проведения курсов обучения в не менее чем одной комнате зданий, где расположены районные (городские) секторные штабы."
+            ],
+            "titleEn":"Providing opportunities for women in rural areas to learn a profession, engage in entrepreneurship, and ensure employment starting from 2023, with annual grants of up to 7 thousand basic calculation units for non-governmental organizations",
+            "descriptionEn" : [
+                "To implement projects for training women in rural areas in a profession, attracting them to entrepreneurship, and ensuring employment starting from 2023:",
+
+                "-    at least 50 billion sum is allocated annually from the budget of the State Support Fund for Family and Women to provide grants of up to 7 thousand basic calculation units to non-governmental organizations;",
+
+                "-    it is necessary to create conditions for conducting training courses in at least one room of the buildings where the district (city) sectoral headquarters are located."
+            ]
+        }
+    ]
+}

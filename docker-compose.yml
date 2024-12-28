@@ -1,0 +1,14 @@
+version: "3.7"
+services:
+  game.itic.uz_app:
+    image: git.itic.uz:5050/root/100imkoniyat_frontend_reactjs:latest
+    container_name: 100imkoniyat_frontend_reactjs
+    environment:
+      VITE_BASE_URL: ${VITE_BASE_URL}
+      REACT_APP_BASE_URL: ${VITE_BASE_URL}
+    ports:
+      - "3004:80"
+    stop_grace_period: 10s
+    restart: always
+
+

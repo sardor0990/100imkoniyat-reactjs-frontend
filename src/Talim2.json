@@ -1,0 +1,1360 @@
+{
+    "data":[
+        {
+            "id":1,
+            "titleUz":"Xalqaro IT sertifikatlarini olish uchun sarflangan xarajatlarni 100 foizgacha qoplab berish mexanizmi:",
+            "descriptionUz":[
+                "Ariza beruvchi sertifikat berilgan kundan boshlab 180 kun ichida YIDXP orqali ro‘yxatdan o‘tib, so‘rovnomani to‘ldiradi.",
+
+                "Hujjatlar 7 ish kuni mobaynida verifikatsiyadan o‘tkaziladi.",
+
+                "Sertifikatning haqiqiyligi tasdiqlangan kundan boshlab 3 ish kunida hujjatlarni umumlashtirilib, moliyalashtirish yuzasidan takliflar vakolatli organga kiritiladi",
+
+                "Xarajatlarni moliyalashtirish yuzasidan takliflar kiritilgandan keyin 10 ish kuni mobaynida kelishilib beriladi",
+
+                "Kelishuvdan so‘ng, 5 ish kuni mobaynida talabgor ko‘rsatgan plastik kartaga pul mablag‘lari yo‘naltiriladi.",
+
+                "Xalqaro IT-sertifikat ; To‘lov kvitansiya nusxalari ; O‘quv kursini tamomlaganligini tasdiqlovchi hujjatlar nusxasi ; Bank plastik kartasiga oid ma’lumotlar",
+
+              "Talabgor tomonidan taqdim etiladi. Xarajatlarni 100 foiz qoplab olish uchun talabgorlar ingliz tili bo‘yicha B2 va undan yuqori darajaga egaligini tasdiqlovchi xalqaro sertifikat nusxasini qo‘shimcha ravishda taqdim etadi.",
+
+              "Sertifikatning haqiqiyligi tasdiqlanmasa bu haqida 3 ish kuni mobaynida talabgorga SMS yuboriladi."
+            ],
+            "titleRu":"Механизм покрытия до 100% затрат на получение международных ИТ-сертификатов:",
+            "descriptionRu":[
+                "- Заявитель регистрируется через YIDXP и заполняет анкету в течение 180 дней с момента выдачи сертификата.",
+                
+                "- Документы проверяются в течение 7 рабочих дней.",
+
+                "- В течение 3 рабочих дней со дня подтверждения действия сертификата документы суммируются и предложения по финансированию подаются в уполномоченный орган",
+
+ "- Предложения по финансированию расходов будут согласованы в течение 10 рабочих дней после подачи",
+
+ "- После согласования денежные средства будут переведены на указанную заявителем пластиковую карту в течение 5 рабочих дней.",
+
+ "Международный IT-сертификат • Копии квитанций об оплате • Копии документов, подтверждающих прохождение курса обучения • Информация о банковской пластиковой карте",
+
+ "- представлен заявителем. Для получения 100% возмещения расходов заявители дополнительно предоставят копию международного сертификата, подтверждающего наличие у них уровня английского языка B2 или выше.",
+
+ "- Если подлинность сертификата не будет подтверждена, заявителю будет отправлено СМС в течение 3 рабочих дней"
+            ],
+            "titleEn":"Mechanism for covering up to 100% of the costs of obtaining international IT certificates:",
+            "descriptionEn":[
+                "- The applicant registers through YIDXP and fills out the questionnaire within 180 days from the date of issue of the certificate.",
+
+"- Documents are checked within 7 working days.",
+
+"- Within 3 working days from the date of confirmation of the certificate, the documents are summarized and proposals for financing are submitted to the authorized body",
+
+"- Proposals for financing expenses will be agreed upon within 10 working days after submission",
+
+"- After approval, the funds will be transferred to the plastic card specified by the applicant within 5 working days.",
+
+"International IT certificate • Copies of payment receipts • Copies of documents confirming completion of the training course • Information about the bank plastic card",
+
+"- submitted by the applicant. To receive 100% reimbursement of expenses, applicants will additionally provide a copy of an international certificate confirming that they have an English level of B2 or higher.",
+
+"- If the authenticity of the certificate is not confirmed, the applicant will be sent SMS within 3 working days"
+            ],
+            "linkToService" : "https://youtu.be/GfcF6ETaYOA?si=DkSPZn8diR-fQCxB",
+            "category": "talim"
+        },
+        {
+            "id":2,
+            "titleUz":"Xorijiy til bo'yicha B2 va undan yuqori daraja olgan yoshlarga 100 foiz xarajatini qoplab berish mexanizmi",
+            "descriptionUz": [
+                "Nemis, Fransuz, Xitoy, Koreys, Yapon tillaridan eng kamida B2 daraja, ingliz tilidan eng kamida C1 daraja olgan yoshlarga imtihon xarajatlari to‘liq qoplab beriladi. C1 va undan yuqori daraja olgan yoshlarga qo‘shimcha ravishda 1 million 20 ming so‘m kompensatsiya ham qilib beriladi.",
+
+                "SMS yuborilgandan so‘ng Xalq banki filiali ariza beruvchiga kompensatsiya to‘lovini amalga oshiradi.",
+
+                "Sertifikatning haqiqiyligi tasdiqlanganda 15 kun mobaynida ariza beruvchilarning reyestri shakllantiriladi, xizmat natijasi haqida arizachiga SMS xabar yuboriladi;",
+
+                "Yoshlar ishlari agentligi 15 kalendar kun davomida sertifikatni verifikatsiyadan o‘tkazadi.",
+
+                "Arizachi Davlat xizmatlari markazlariga murojaat etadi yoki my.gov.uz portalida elektron tarzda ariza qoldiradi. (Sertifikat berilgan sanadan boshlab 180 kalendar kun mobaynida)"
+            ],
+            "titleRu":"Механизм возмещения 100% затрат молодым людям, получившим степень B2 и выше по иностранному языку:",
+            "descriptionRu":[
+                "Молодым людям, получившим уровень не ниже B2 по немецкому, французскому, китайскому, корейскому, японскому языку и не ниже уровня C1 по английскому языку, будут полностью возмещены расходы на экзамены. Молодые люди, получившие уровень C1 и выше, также получат компенсацию. в размере 1 20 000 сум.",
+
+ "После отправки СМС отделение Народного банка осуществит заявителю компенсационную выплату.",
+
+ "- При подтверждении действительности сертификата в течение 15 дней будет создан реестр заявителей, заявителю будет отправлено СМС-сообщение о результате оказания услуги;",
+
+ "- Агентство по делам молодежи проверит справку в течение 15 календарных дней.",
+
+ "- Заявитель обращается в центры государственных услуг или подает заявление в электронной форме на портале my.gov.uz. (В течение 180 календарных дней со дня выдачи свидетельства)"
+            ],
+            "titleEn":"Issuance of education loans in the field of information technology for young people who are citizens of Uzbekistan and permanently reside in Uzbekistan, but do not have Uzbekistan citizenship, for IT-park resident NTTs:",
+            "descriptionEn":[
+                "Young people who have obtained a level of at least B2 in German, French, Chinese, Korean, Japanese and at least C1 in English will have their exam costs fully reimbursed. Young people who have obtained a level of C1 and above will also receive compensation in the amount of 1,20,000 soums.",
+
+"After sending the SMS, the People's Bank branch will make a compensation payment to the applicant.",
+
+"- Upon confirmation of the validity of the certificate, a register of applicants will be created within 15 days, and an SMS message will be sent to the applicant about the result of the service;",
+
+"- The Youth Affairs Agency will check the certificate within 15 calendar days.",
+
+"- The applicant applies to government service centers or submits an application electronically on the my.gov.uz portal. (Within 180 calendar days from the date of issue of the certificate)"
+            ],
+            "linkToService" : "https://my.gov.uz/oz/service/413",
+            "category": "talim"
+        },
+        {
+            "id":3,
+            "titleUz":"Milliy yoki xalqaro imtihon tizimlari bo‘yicha tilni bilish darajalari B2 va undan yuqori sertifikatga ega abituriyentlarga ushbu fandan imtihonlarsiz maksimal bal berish mexanizmi",
+            "descriptionUz":[
+                "- Kirish imtihonlarida abituriyentga ushbu fandan maksimal ball beriladi.",
+
+                "- OTMga imtihon topshirish uchun ariza to‘ldirilganida milliy yoki xalqaro imtihon tizimlari bo‘yicha til bilish darajasi B2 yoki undan yuqori bo‘lgan sertifikat ilova qilinadi."
+            ],
+            "titleRu":"Уровни знания языка по национальной или международной экзаменационной системе B2 и выше абитуриентам, имеющим сертификат по данному предмету механизм максимального начисления баллов без экзаменов :",
+            "descriptionRu":[
+                "- На вступительных экзаменах абитуриенту выставляется максимальный балл по данному предмету.",
+
+ "- При заполнении заявления на сдачу экзамена в ОТМ прилагается сертификат о владении языком В2 или выше по национальной или международной экзаменационной системе."
+            ],
+            "titleEn":"Levels of language knowledge according to national or international examination systems B2 and above to applicants with a certificate in this subject maximum scoring mechanism without exams",
+            "descriptionEn":[
+                "- In entrance exams to the applicant from this subject maximum score is awarded.",
+
+"- Application for examination at OTM national or international exam when completed language proficiency level B2 or a certificate higher than that is attached."
+            ],
+            "linkToService" : "https://lex.uz/mact/-4332249?ONDATE=17.02.2022%2000",
+            "category": "talim"
+        },
+        {
+            "id":4,
+            "titleUz":"Yoshlarga zamonaviy kasblarni egallashi, axborot texnologiyalarini o‘rganishi va xorijiy tillarga o‘qitish bo‘yicha 6 oygacha muddatli o‘quv kurslar uchun har oyda BHMning 4 baravarigacha subsidiya ajratish mexanizmi:",
+            "descriptionUz":[
+                "- Talabgor tuman (shahar) Yoshlar daftari jamg‘armasi Vasiylik kengashiga NTT bilan tuzilgan shartnoma nusxasini taqdim etgan holda ariza beradi. (1 ish kuni ichida)",
+
+                "-Ariza natijasi haqidagi xabarnoma Vasiylik kengashiga yuboriladi. Ariza natijasi salbiy bo‘lsa, rad etish sabablari keltiriladi. (5 ish kuni ichida)",
+
+                "- Vasiylik kengashi o‘qish xarajatlarini qoplash va o‘quv kursi uchun belgilangan mablag‘larni ta’lim tashkilotining hisob raqamiga o‘tkazib beradi. (3 ish kuni ichida)",
+
+                "- Vasiylik kengashi murojaatni arizachining mahallasidagi yoshlar yetakchisiga yuboradi. (3 ish kuni ichida)",
+
+                "- Belgilangan muddatda ariza natijasi haqida xabarnoma berilmasa yoki asossiz rad etilganligi aniqlansa, Vasiylik kengashi ariza beruvchining murojaatini qanoatlantiradi. (5 ish kuni ichida)",
+
+                "Ariza beruvchining o‘quv kursida o‘qiyotganligini har oyda kamida bir marta monitoring qilib boradi."
+            ],
+            "titleRu":"Механизм выделения субсидии до 4-кратного размера БХМ в месяц на курсы обучения молодежи сроком до 6 месяцев для приобретения современных профессий, изучения информационных технологий и обучения иностранным языкам:",
+            "descriptionRu":[
+                "- Заявитель подает заявление в Попечительский совет районного (городского) Фонда регистрации молодежи, предъявляя копию договора с НТТ. (в течение 1 рабочего дня)",
+
+ "-Уведомление о результате рассмотрения заявления направляется в Попечительский совет. В случае отрицательного результата рассмотрения заявления приводятся причины отказа. (в течение 5 рабочих дней)",
+
+ "- Попечительский совет переведет денежные средства, определенные для возмещения расходов на обучение и учебный курс, на номер счета образовательной организации. (в течение 3 рабочих дней)",
+
+ "- Попечительский совет направляет заявление молодежному лидеру по месту жительства заявителя. (в течение 3 рабочих дней)",
+
+ "- Если уведомление о результате рассмотрения заявления не будет подано в указанный срок или будет установлено, что оно отклонено необоснованно, Попечительский совет удовлетворит апелляционную жалобу заявителя. (в течение 5 рабочих дней)",
+
+ "Контролирует прогресс заявителя на курсе обучения не реже одного раза в месяц"
+            ],
+            "titleEn":"The mechanism for allocating a subsidy of up to 4 times the amount of the BHM per month for training courses for young people for up to 6 months to acquire modern professions, study information technology and learn foreign languages:",
+            "descriptionEn":[
+                "- The applicant submits an application to the Board of Trustees of the district (city) Youth Registration Fund, presenting a copy of the agreement with NTT. (within 1 working day)",
+
+"- Notification of the result of the application review is sent to the Board of Trustees. In case of a negative result of the application review, the reasons for the refusal are given. (within 5 working days)",
+
+"- The Board of Trustees will transfer the funds designated for reimbursement of tuition and course expenses to the account number of the educational organization. (within 3 working days)",
+
+"- The Board of Trustees sends the application to the youth leader at the applicant's place of residence. (within 3 working days)",
+
+"- If notification of the result of the application review is not submitted within the specified period or it is established that it was rejected unreasonably, the Board of Trustees will satisfy the applicant's appeal. (within 5 working days)",
+
+"Monitors the applicant's progress in the course of study at least once a month"
+            ],
+            "linkToService" : "https://lex.uz/docs/-6051791?ONDATE=01.01.2024",
+            "category": "talim"
+        },
+        {
+            "id":5,
+            "titleUz":"Professional va oliy ta’lim muassasalarida ta’lim olayotgan, “Temir daftar” va “Yoshlar daftari”ga kiritilgan yoshlarning to‘lov-kontrakt summasining 50 foizgacha (BHMning 50 baravaridan oshmagan miqdorda) to‘lab berish mexanizmi: ",
+            "descriptionUz":[
+                "- Talabgor o'qishi haqidagi shartnoma nusxasini taqdim etgan holda tuman (shahar) Yoshlar daftari jamg'armasi Vasiylik kengashiga ariza beradi.",
+
+                "Murojaat unga ilova qilingan shartnoma bilan birga ariza beruvchi yashab kelayotgan mahalladagi yoshlar yetakchisiga yuboriladi. (3 ish kuni)",
+
+                "- Ariza natijasi haqidagi xabarnoma Vasiylik kengashiga yuboriladi. Bunda rad etish haqida xabarnoma yuborilganda, rad etish sabablari asoslantirilishi talab etiladi. (5 ish kuni ichida)",
+
+                "- Yoshlar yetakchisi tomonidan belgilangan muddatda ariza natijasi haqida xabarnoma berilmasa yoki asossiz rad etilganligi aniqlansa, Vasiylik kengashi murojaatni qanoatlantiradi. (5 ish kuni ichida)",
+
+                "- Vasiylik kengashi to'lov-kontrakt xarajatlari professional ta'lim tashkiloti yoki oliy ta'lim tashkilotining hisob raqamiga o'tkazadi. (3 ish kuni ichida)"
+            ],
+            "titleRu":"Механизм оплаты до 50% суммы платежного договора (в размере, не превышающем 50-кратного размера БХМ) молодыми людьми, обучающимися в профессиональных и высших учебных заведениях, входящих в «Темир Дафтар» и «Ёшлар Дафтар»:",
+            "descriptionRu":[
+                "- Кандидат обращается в Попечительский совет районного (городского) Молодёжного тетрадного фонда, предъявляя копию договора на учёбу.",
+
+ "Заявление вместе с приложенным к нему договором направляется молодёжному лидеру по месту жительства заявителя. (3 рабочих дня)",
+
+ "- Уведомление о результате рассмотрения заявления направляется в Попечительский совет. При направлении уведомления об отказе необходимо обосновать причины отказа. (в течение 5 рабочих дней)",
+
+ "- Если молодежный лидер не уведомит о результате рассмотрения заявления в установленный срок или будет установлено, что оно было отклонено без причины, Попечительский совет одобрит заявление (в течение 5 рабочих дней)",
+
+ "- Попечительский совет перечисляет платежно-контрактные расходы на счет профессиональной образовательной организации или организации высшего образования. (в течение 3 рабочих дней)"
+            ],
+            "titleEn":"Mechanism for payment of up to 50% of the payment-contract amount (in an amount not exceeding 50 times of BHM) of young people studying in professional and higher education institutions, included in Temir Daftar and Yoshlar Daftar:",
+            "descriptionEn":[
+                "- The candidate applies to the Board of Trustees of the district (city) Youth Notebook Fund, presenting a copy of the study contract.",
+
+"The application together with the attached contract is sent to the youth leader at the applicant's place of residence. (3 working days)",
+
+"- Notification of the result of the application review is sent to the Board of Trustees. When sending a notification of refusal, it is necessary to justify the reasons for the refusal. (within 5 working days)",
+
+"- If the youth leader does not notify of the result of the application review within the established period or it is established that it was rejected without reason, the Board of Trustees will approve the application (within 5 working days).",
+
+"- The Board of Trustees transfers payment and contract expenses to the account of the professional educational organization or higher education organization. (within 3 working days)"
+            ],
+            "linkToService" : "https://yoshlardaftari.uz/",
+            "category": "talim"
+        },
+        {
+            "id":6,
+            "titleUz":"IT-park rezidenti bo‘lgan tashkilotlarning IT sohasidagi kurslarida o‘qib muvaffaqiyatli tamomlagan yoshlarga kompyuter xaridi uchun BHMning 25 baravaridan ko‘p bo‘lmagan miqdorda iste’mol kreditlari ajratish mexanizmi",
+            "descriptionUz":[
+                "- DXA yoki YIDXP orqali sertifikat ilova qilib murojaat qilinadi. (Sertifikat berilgan sanadan boshlab 6 oy mobaynida)",
+
+                "Sertifikat YIDXP orqali avtomatik tarzda vakolatli organga elektron shaklda yuboriladi. (10 daqiqa mobaynida)",
+
+                "- YIA taqdim etilgan sertifikatni va jamg‘arma kafilligini verifikatsiyadan o‘tkazadi",
+
+                "- Ariza beruvchining ma’lumotlari to‘g‘ri deb topilganda kompensatsiya to‘lanishi haqida, aks holda rad javobi haqida xabar beriladi",
+
+              "Verifikatsiyadan o‘tgan arizachilarning elektron reyestrini shakllantiriladi, ushbu elektron reyestr bankka avtomatik ravishda taqdim etiladi. (5 ish kuni mobaynida)",
+
+                "Taqdim etilgan reyestrga muvofiq mablag‘larni iste’mol krediti foizlarini qoplash uchun ariza beruvchilarning bankdagi hisobvarag‘iga o‘tkaziladi. (2 ish kunida)",
+
+              "Jamg‘arma kafilligini berish haqidagi ma’lumotnoma asosida uch tomonlama bitim imzolanadi.",
+
+              "Iste’mol krediti ajratish bo‘yicha hujjatlar rasmiylashtiriladi, uning summasi kompyuter yetkazib beruvchi tashkilotlarning hisobvarag‘iga o‘tkaziladi. Jamg‘arma kafilligini berish yuzasidan tegishli bank bilan bitim tuziladi.",
+
+              "Iste’mol krediti bo‘yicha foiz to‘lovlari banklarning tegishli hisobvarag‘iga ariza beruvchilarning reyestri ilova qilingan holda o‘tkaziladi.(Banklar bilan kelishilgan muddatlarda har oyning 25-kuniga qadar)"
+              
+              
+            ],
+            "titleRu":"Механизм оплаты до 50% суммы платежного договора (в размере, не превышающем 50-кратного размера БХМ) молодыми людьми, обучающимися в профессиональных и высших учебных заведениях, входящих в «Темир Дафтар» и «Ёшлар Дафтар»:",
+            "descriptionRu":[
+               "- через DXA или YIDXP сертификат применяется как приложение. (В течение 6 месяцев с момента выдачи сертификата)",
+
+ "Сертификат автоматически отправляется в уполномоченный орган в электронном виде через YIDXP. (в течение 10 минут)",
+
+ "- YIA проверяет предоставленный сертификат и гарантию фонда",
+
+ "- Если информация заявителя окажется верной, компенсация будет выплачена, в противном случае будет сообщено об отказе",
+
+ "Будет создан электронный реестр проверенных заявителей, этот электронный реестр будет автоматически передан в банк (в течение 5 рабочих дней)",
+
+ "Согласно представленному реестру денежные средства будут перечислены на банковский счет заявителей для покрытия процентов по потребительскому кредиту. (в течение 2 рабочих дней)",
+
+ "Трёхстороннее соглашение будет подписано на основании гарантийного сертификата фонда.",
+
+ "Будут оформлены документы на предоставление потребительского кредита, сумма будет перечислена на счет организаций-поставщиков компьютеров. С соответствующим банком будет заключен договор о предоставлении финансовой гарантии.",
+
+ "Проценты по потребительскому кредиту переводятся на счет в банке с приложением реестра заявителей."
+            ],
+            "titleEn":"IT courses of IT-Park resident organizations for the purchase of computers for young people who have successfully graduated Consumer loans in the amount of no more than 25 times of BHM separation mechanism:",
+            "descriptionEn":[
+                "- via DXA or YIDXP, the certificate is used as an attachment. (Within 6 months from the date of issue of the certificate)",
+
+"The certificate is automatically sent to the authorized body electronically via YIDXP. (within 10 minutes)",
+
+"- YIA checks the provided certificate and the fund's guarantee",
+
+"- If the applicant's information is correct, compensation will be paid, otherwise a refusal will be reported",
+
+"An electronic register of verified applicants will be created, this electronic register will be automatically transferred to the bank (within 5 working days)",
+
+"According to the submitted register, funds will be transferred to the applicants' bank account to cover interest on the consumer loan. (within 2 working days)",
+
+"A tripartite agreement will be signed on the basis of the fund's guarantee certificate.",
+
+"Documents for the provision of a consumer loan will be drawn up, the amount will be transferred to the account of the computer supplier organizations. An agreement on the provision of financial guarantees.",
+
+"Interest on consumer loans is transferred to a bank account with an attached register of applicants."
+            ],
+            "linkToService" : "https://my.gov.uz/oz/service/523",
+            "category": "talim"
+        },
+        {
+            "id":7,
+            "titleUz":"Ijtimoiy himoyaga muhtoj iqtidorli yoshlarning ilm-fan, sport, san’at va madaniyat yo‘nalishlaridagi olimpiada va tanlovlarning mahalliy (BHMning 4 baravarigacha) hamda xalqaro bosqichlarida (BHMning 40 baravarigacha) qatnashish xarajatlari uchun subsidiya ajratish mexanizmi:",
+            "descriptionUz":[
+                "-Talabgor tuman (shahar) Yoshlar daftari jamg‘armasi Vasiylik kengashiga ariza beradi (tanlov va musobaqalarda ishtirok etish huquqini tasdiqlovchi hujjatlar va Vasiylik kengashi nomiga yuborilgan rasmiy xatni taqdim etgan holda).",
+
+                "- Ariza o‘rganish natijalari asosida subsidiya ajratish bo‘yicha qaror qabul qilinadi. (3 ish kuni ichida)",
+
+                "- Qarorga muvofiq musobaqaga borish-kelish xarajatlari uchun mablag‘lar transport, temiryo‘l va aviachiptani sotgan tashkilotlarning hisob raqamiga, yashash xarajatlari uchun mablag‘lar talabgorning bank plastik kartasiga o‘tkazib beriladi. (3 ish kuni ichida)"
+            ],
+            "titleRu":"Механизм выделения субсидий на расходы талантливой молодежи, нуждающейся в социальной защите, для участия в местных (до 4-кратного БХМ) и международных этапах (до 40-кратного БХМ) олимпиад и конкурсов в областях науки , спорт, искусство и культура:",
+            "descriptionRu":[
+                "-Заявитель подает заявление в Попечительский совет районного (городского) Фонда регистрации молодежи (представив документы, подтверждающие право на участие в конкурсах и конкурсах, и официальное письмо на имя Попечительского совета)",
+
+ "- По результатам изучения заявления будет принято решение о выделении субсидии. (в течение 3 рабочих дней)",
+
+ "- В соответствии с решением средства на проезд до соревнований и обратно будут переведены на счет организаций, реализовавших транспортные, железнодорожные и авиабилеты, а средства на проживание - на банковскую пластиковую карту заявителя. . (в течение 3 рабочих дней)"
+            ],
+            "titleEn":"Mechanism for the allocation of subsidies for the expenses of talented youth in need of social protection for participation in local (up to 4 times the BHM) and international stages (up to 40 times the BHM) of Olympiads and competitions in the fields of science, sports, art and culture:",
+            "descriptionEn":[
+                "- The applicant submits an application to the Board of Trustees of the district (city) Youth Registration Fund (submitting documents confirming the right to participate in competitions and contests, and an official letter addressed to the Board of Trustees)",
+
+"- Based on the results of the application review, a decision will be made on the allocation of a subsidy. (within 3 working days)",
+
+"- In accordance with the decision, funds for travel to and from the competition will be transferred to the account of the organizations that sold the transport, train and air tickets, and funds for accommodation - to the applicant's bank plastic card. . (within 3 working days)"
+            ],
+            "linkToService" : "",
+            "category": "talim"
+        },
+        {
+            "id":8,
+            "titleUz":"Mehribonlik uyi va bolalar shaharchasining bitiruvchilari bo‘lgan chin yetimlar uchun oliy ta’lim muassasalariga kirishga imtiyoz berish:",
+            "descriptionUz":[
+                "- Oliy ta’lim muassasalariga abituriyentlarni qabul qilishning umumiy sonidan Mehribonlik uyi va Bolalar shaharchasining bitiruvchilari bo‘lgan chin yetimlar uchun qo‘shimcha ravishda bir foizgacha davlat granti asosidagi qabul kvotalari ajratiladi."
+
+            ],
+            "titleRu":"Мехрибонлик уйи ва болалар шахарчасининг битирувчилари булган чин йетимлар учун олий та'лим муассасаларига киришга имтиёз бериш:",
+            "descriptionRu":[
+                "- Из общего числа абитуриентов в вузы на основе государственного гранта будет выделено до одного процента квот приема для настоящих детей-сирот, являющихся выпускниками Дома милосердия и Детского городка."
+             
+            ],
+            "titleEn":"Give privileges to enter higher educational institutions for orphans who are graduates of Mehribonlik Uyi and Bolar:",
+            "descriptionEn":[
+                "- Kindness from the total number of applicants to higher education institutions supplement for real orphans who are graduates of the Home and Children's Town admission quotas based on state grants up to one percent are allocated."
+            ],
+            "linkToService" : "https://lex.uz/docs/3244181",
+            "category": "talim"
+        },
+        {
+            "id":9,
+            "titleUz":"Ijtimoiy himoyaga muhtoj iqtidorli yoshlarning ilm-fan, sport, san’at va madaniyat yo‘nalishlarida 6 oygacha muddatli o‘quv kurslari uchun har oyda BHMning 1 baravarigacha miqdorda subsidiya ajratish mexanizmi:",
+            "descriptionUz":[
+                "- 1 ish kuni ichida Talabgor tuman (shahar) Yoshlar daftari jamg'armasi Vasiylik kengashiga NTT o'rtasida tuzilgan shartnoma nusxasini taqdim etgan holda ariza beradi.",
+
+                "- 3 ish kuni ichida Murojaatni unga ilova qilingan shartnoma bilan birga ariza beruvchi yashab kelayotgan mahalladagi yoshlar yetakchisiga yuboriladi. ",
+
+              "- 5 ish kuni ichida Arizaning natijasi Vasiylik kengashiga yuboriladi. Ariza rad etilganda sabablari asoslantiriladi",
+
+                "- 5 ish kuni ichida Mahalladagi yoshlar yetakchisi tomonidan belgilangan muddatda ariza beruvchining ariza natijasi haqida xabarnoma berilmasa yoki asossiz rad etilganligi aniqlansa, Vasiylik kengashi ariza beruvchining murojaatini qanoatlantiradi.",
+
+                "-  3 ish kuni ichida O'qish xarajatlari uchun belgilangan mablag'lar ta'lim tashkilotining hisob raqamiga o'tkazib beriladi",
+
+                "Har oyda kamida bir marta talabgorning o'quv kursida o'qiyotganligi monitoring qilib boriladi."
+            ],
+            "titleRu":"Механизм выделения ежемесячной субсидии в размере до 1-кратного размера БХМ на курсы обучения сроком до 6 месяцев для талантливой молодежи, нуждающейся в социальной защите в сфере науки, спорта, искусства и культуры:",
+            "descriptionRu":[
+                "- В течение 1 рабочего дня заявитель обращается в Попечительский совет районного (городского) Фонда регистрации молодежи, предоставив копию договора, заключенного между НТТ.",
+
+ "- В течение 3 рабочих дней заявление вместе с приложенным к нему договором будет отправлено молодёжному лидеру по месту жительства заявителя.",
+
+ "- В течение 5 рабочих дней результат рассмотрения заявления будет направлен в Попечительский совет. В случае отклонения заявления будут обоснованы причины",
+
+ "- Если в течение 5 рабочих дней молодежный лидер района не уведомит заявителя о результате рассмотрения заявления или будет установлено, что оно было отклонено безосновательно, Попечительский совет удовлетворит апелляционную жалобу заявителя.",
+
+ "- В течение 3-х рабочих дней средства, предназначенные на расходы на образование, будут переведены на номер счета образовательной организации",
+
+ "Не реже одного раза в месяц контролируется посещаемость студентом курса обучения"
+            ],
+            "titleEn":"A mechanism for allocating a monthly subsidy in the amount of up to 1-fold the BHM for training courses lasting up to 6 months for talented youth in need of social protection in the field of science, sports, art and culture:",
+            "descriptionEn":[
+                "- Within 1 working day, the applicant applies to the Board of Trustees of the district (city) Youth Registration Fund, providing a copy of the agreement concluded between the NTT.",
+
+"- Within 3 working days, the application together with the attached agreement will be sent to the youth leader at the applicant's place of residence.",
+
+"- Within 5 working days, the result of the application review will be sent to the Board of Trustees. In case of rejection of the application, the reasons will be substantiated",
+
+"- If within 5 working days the district youth leader does not notify the applicant of the result of the application review or it is established that it was rejected without reason, the Board of Trustees will satisfy the applicant's appeal.",
+
+"- Within 3 working days, the funds intended for educational expenses will be transferred to the account number of the educational organization",
+
+"At least once a month, the student's attendance of the course of study is monitored"
+            ],
+            "linkToService" : "https://lex.uz/docs/-6051791?ONDATE=01.01.2024",
+            "category": "talim"
+        },
+        {
+            "id":10,
+            "titleUz":"Yoshlarni ta'lim, madaniyat va san'at, sport, axborot texnologiyalar sohasiga va fanlarni o'qitishga ixtisoslashgan ta'lim tashkilotlarining 3 oy muddatgacha noturar joy ijara xarajatlari uchun bhmning 50 baravarigacha miqdorda subsidiya ajratish mexanizmi:",
+            "descriptionUz":[
+                "Talabgor tashkilotining noturar joy ijara xarajatlarini qoplash uchun tuman (shahar) Yoshlar daftari jamg'armasi Vasiylik kengashiga ariza beradi.",
+
+              "Murojaat unga ilova qilingan shartnoma bilan birga ariza beruvchi yashab kelayotgan mahalladagi yoshlar yetakchisiga yuboriladi. (3 ish kuni ichida)",
+
+              "Ariza natijasi haqidagi xabarnoma Vasiylik kengashiga yuboriladi. Arizani rad etish haqida xabarnoma yuborilganda, sabablar asoslantirilib beriladi. (5 ish kuni ichida)",
+
+              "Yoshlar yetakchisi tomonidan ariza natijasi berilmasa yoki asossiz rad etilganligi aniqlansa, Vasiylik kengashi murojaatni qanoatlantiradi. (5 ish kuni ichida)",
+
+              "Bino va inshootlar ijara xarajatlarini qoplash uchun belgilangan mablag'larni ijaraga beruvchining hisob raqamiga o'tkaziladi. (3 ish kuni ichida)",
+
+              "Har oyda kamida bir marta bino-inshootdan foydalanilayotgani monitoring qilib boriladi."
+              
+            ],
+            "titleRu":"Организация-заявитель подает в Попечительский совет районного (городского) фонда регистрации молодежи заявление о возмещении расходов по аренде нежилого помещения:",
+            "descriptionRu":[
+                "Организация-заявитель обращается в Попечительский совет районного (городского) Фонда регистрации молодежи о покрытии расходов по аренде нежилого помещения.",
+
+ "Заявление вместе с приложенным к нему договором направляется молодежному лидеру по месту жительства заявителя. (в течение 3 рабочих дней)",
+
+ "Уведомление о результате рассмотрения заявления направляется в Попечительский совет. При направлении уведомления об отказе в удовлетворении заявления указываются причины. (в течение 5 рабочих дней)",
+
+ "Если молодежный лидер не предоставит результат по заявлению или будет установлено, что оно было отклонено без причины, Попечительский совет одобрит заявление (в течение 5 рабочих дней)",
+
+ "Здания и сооружения будут переданы на счет арендодателя для покрытия расходов по аренде. (в течение 3-х рабочих дней)",
+
+ "Не реже одного раза в месяц контролируется использование здания"
+            ],
+            "titleEn":"The applicant organization submits an application to the Board of Trustees of the District (City) Youth Registry Fund to cover the costs of non-residential rent.:",
+            "descriptionEn":[
+                "The applicant organization applies to the Board of Trustees of the district (city) Youth Registration Fund for coverage of expenses for renting non-residential premises.",
+
+"The application together with the attached agreement is sent to the youth leader at the applicant's place of residence. (within 3 working days)",
+
+"Notification of the result of the application review is sent to the Board of Trustees. When sending a notice of refusal to satisfy the application, the reasons are indicated. (within 5 working days)",
+
+"If the youth leader does not provide a result on the application or it is established that it was rejected without reason, the Board of Trustees will approve the application (within 5 working days)",
+
+"The buildings and structures will be transferred to the landlord's account to cover rental expenses. (within 3 working days)",
+
+"The use of the building is monitored at least once a month"
+            ],
+            "linkToService" : "https://lex.uz/uz/docs/-6051791?ONDATE=01.01.2024%2000#-6054566",
+            "category": "talim"
+        },
+        {
+            "id":11,
+            "titleUz":"“Ijtimoiy himoya yagona reyestri”ga kirgan oilalar farzandlari bo‘lgan yoshlarga axborot texnologiyalari sohasida tahsil olish bo‘yicha garov va kafilliksiz kredit ajratish mexanizmi:",
+            "descriptionUz":[
+                "Ariza",
+
+              "Bankning ichki hujjatlarida belgilangan boshqa hujjatlar",
+
+              "Qarz oluvchi va nodavlat ta’lim tashkilotlari - IT-park rezidentlari o‘rtasida axborot texnologiyalari sohasidagi kurslarda o‘qitish bo‘yicha rasmiylashtirilgan kelishuv (shartnoma, ommaviy oferta).",
+
+              "Yagona ijtimoiy himoya reyestriga kiritilganligini tasdiqlovchi guvohnoma.",
+
+              "Ta’lim krediti to‘langanligini tasdiqlovchi hujjat.",
+
+              "AKT ta'lim kreditini 14 yoshdan 30 yoshgacha bo‘lgan yoshlar 65 BHM miqdorida 19 million 500 ming so'mni bir yillik imtiyozli davr bilan 4 yilgacha muddatga olishlari mumkin.",
+
+              "Yagona ijtimoiy himoya reyestriga kiritilgan oilalardan bo'lgan shaxslar uchun ta'lim krediti uchun garov va kafillikka ehtiyoj qolmaydi;",
+
+              "Yagona ijtimoiy himoya reyestriga fuqaro o'z mahallasida ariza beribkirishi mumkin."
+            ],
+            "titleRu":"Механизм предоставления кредитов без залога и гарантий на обучение в сфере информационных технологий молодым людям, имеющим детей из семей, внесенных в «Единый реестр социальной защиты:",
+            "descriptionRu":[
+                "Приложение",
+
+ "Иные документы, предусмотренные внутренними документами банка",
+
+ "Оформленный договор между заемщиком и негосударственными образовательными организациями – резидентами ИТ-парка об обучении на курсах в сфере информационных технологий (договор, публичная оферта)",
+
+ "Свидетельство, подтверждающее включение в единый реестр социальной защиты.",
+
+ "Документ, подтверждающий оплату образовательного кредита.",
+
+ "Молодежь в возрасте от 14 до 30 лет может получить кредит на образование в области ИКТ в размере 65 батов за 19 миллионов 500 тысяч сумов с отсрочкой в один год сроком до 4 лет",
+
+ "Нет необходимости в залоге и поручительстве по кредиту на образование для лиц из семей, включенных в единый реестр социальной защиты;",
+
+ "Гражданин может подать заявление в единый регистр социальной защиты по месту жительства"
+            ],
+            "titleEn":"The mechanism for allocating loans without collateral and guarantees for studying in the field of information technologies to young people who have children from families entered into the Unified Register of Social Protection:",
+            "descriptionEn":[
+                "Appendix",
+
+"Other documents stipulated by the internal documents of the bank",
+
+"A formal agreement between the borrower and non-governmental educational organizations - residents of the IT Park on training in courses in the field of information technology (agreement, public offer)",
+
+"Certificate confirming inclusion in the unified register of social protection.",
+
+"Document confirming payment of an educational loan.",
+
+"Young people aged 14 to 30 can receive a loan for education in the field of ICT in the amount of 65 baht for 19 million 500 thousand soums with a deferment of one year for up to 4 years",
+
+"There is no need for collateral and surety for an educational loan for persons from families included in the unified register of social protection;",
+
+"A citizen can submit an application to the unified register of social protection at the place of residence."
+            ],
+            "linkToService" : "https://lex.uz/docs/-6391099",
+            "category": "talim"
+        },
+        {
+            "id":12,
+            "titleUz":"O‘zbekiston fuqarosi bo‘lgan hamda O‘zbekistonda yashayotgan fuqaroligi bo‘lmagan yoshlarga IT-Park rezidenti bo‘lgan NTTlarning axborot texnologiyalari sohasida tahsil olish uchun ta’lim kreditlari ajratish:",
+            "descriptionUz":[
+                "Murojaatchi kreditni olish uchun Iqtisodiyot va moliya vazirligining veb-saytida e'lon qilingan tijorat banklariga quyidagi hujjatlarni taqdim etadi: www.imv.uz",
+
+                "Ta'lim krediti olish to'g'risida ariza;",
+
+              "Kredit oluvchi va IT-park rezidenti bo‘lgan NTTlar o'rtasida rasmiylashtirilgan shartnoma va hisob-faktura (mavjud bo'lganda);",
+
+              "Ta'lim krediti qaytarilishining ta'minoti bo'yicha hujjat (“Ijtimoiy himoya yagona reyestri”ga kirgan oilalar farzandlari bo‘lgan yoshlarga ajratiladigan ta'lim krediti bo'yicha garov va kafillik talab etilmaydi);",
+
+              "“Ijtimoiy himoya yagona reyestri”ga kiritilganligini tasdiqlovchi ma'lumotnoma (Reyestrga kiritilgan oilalar farzandlari uchun);",
+
+                "Bank tomonidan belgilangan boshqa hujjatlar",
+
+              "Axborot texnologiyalari sohasida ta'lim beruvchi rezident tashkilotlar reyestri IT-park tomonidan elektron axborot tizimi shaklida yuritiladi hamda uning to'g'ri yuritilishi Raqamli texnologiyalar vazirligi tomonidan nazorat qilinadi.",
+
+              "Kredit oluvchining doimiy daromad manbaiga ega bo'lgan oila a'zolari yoki boshqa uchinchi shaxs birgalikda qarz oluvchi sifatida ta'lim krediti shartnomasida qatnashishlari mumkin.",
+
+              "Ta'lim kreditlari uchun foizlarni hisoblash va to'lash IT-park rezidenti bo‘lgan nodavlat ta'lim tashkilotlariga mablag'lar o'tkazilgan sanadan boshlab, asosiy qarzni qaytarish esa ta'lim krediti ajratilgan sanadan bir yildan so'ng uch yil davomida amalga oshiriladi."
+            ],
+            "titleRu":"Выделение образовательных кредитов молодым людям, являющимся гражданами Узбекистана, и лицам без гражданства, проживающим в Узбекистане, для обучения в сфере информационных технологий НТТ, являющихся резидентами ИТ-парка:",
+            "descriptionRu":[
+                "Для получения кредита заявитель представляет в коммерческие банки следующие документы, опубликованные на сайте Министерства экономики и финансов: www.imv.uz",
+
+ "Заявка на получение образовательного кредита;",
+
+ "Договор и счет-фактура, подписываемые между заемщиком и резидентом ИТ-парка НТТ (при наличии);",
+
+ "Документ о гарантировании возврата образовательного кредита (залог и поручительство не требуются для образовательного кредита, выделяемого молодым людям, имеющим детей из семей, включенных в «Единый реестр социальной защиты",
+
+ "Свидетельство, подтверждающее включение в «Единый реестр социальной защиты» (для детей семей, включенных в Реестр)",
+
+ "Другие документы, определенные банком",
+
+ "Реестр организаций-резидентов, осуществляющих образование в сфере информационных технологий, ведется ИТ-парком в форме электронной информационной системы, а его правильное ведение контролируется Министерством цифровых технологий",
+
+ "В договоре кредита на образование в качестве созаемщика могут участвовать члены семьи заемщика, имеющие постоянный источник дохода или иное третье лицо.",
+
+ "Начисление и выплата процентов по образовательным кредитам негосударственным образовательным организациям-резидентам ИТ-парка с даты перечисления денежных средств, а погашение основного долга осуществляется через три года по истечении одного года с даты предоставления образовательного кредита. быть осуществлено во время"
+            ],
+            "titleEn":"Allocation of educational loans to young people who are citizens of Uzbekistan and stateless people living in Uzbekistan to study in the field of information technologies of NTTs that are residents of the IT Park:",
+            "descriptionEn":[
+                "To obtain a loan, the applicant submits the following documents to commercial banks, published on the website of the Ministry of Economy and Finance: www.imv.uz",
+
+"Application for an educational loan;",
+
+"Agreement and invoice signed between the borrower and the resident of the NTT IT Park (if any);",
+
+"A document guaranteeing the return of an educational loan (collateral and surety are not required for an educational loan allocated to young people with children from families included in the Unified Register of Social Protection",
+
+"A certificate confirming inclusion in the Unified Register of Social Protection (for children of families included in the Register)",
+
+"Other documents determined by the bank",
+
+"The register of resident organizations providing education in the field of information technology is maintained by the IT Park in the form of an electronic information system, and its correct maintenance is controlled by the Ministry of Digital Technologies",
+
+"Family members may participate as co-borrowers in the educational loan agreement borrowers with a permanent source of income or other third party.",
+
+"The accrual and payment of interest on educational loans to non-governmental educational organizations-residents of the IT Park from the date of transfer of funds, and the repayment of the principal debt is carried out three years after one year from the date of provision of the educational loan. be carried out on time."
+            ],
+            "linkToService" : "https://lex.uz/docs/-6153981",
+            "category": "talim"
+        },
+        {
+            "id":13,
+            "titleUz":"Maktab o‘quvchilari uchun “Maktab” internet tarif rejasi:",
+            "descriptionUz":[
+                "Maktab 29 900 so‘m oyiga",
+
+              "Kiritilgan limit 200 daqiqa",
+
+              "Tarif rejasi doirasida kiritilgan limit oyiga 500 daqiqa",
+
+              "Internet 500 MB kiritilgan limit",
+
+              "SMS kiritilgan limit 500 SMS",
+
+              "MAKTAB tarif rejasi maktab o‘quvchilari uchun mo‘ljallangan, xizmatni rasmiylashtirish yashash joyi bo‘yicha bolaning tug‘ilganlik haqidagi guvohnomasi bilan amalga oshiriladi.",
+
+              "Tarifga ulanish uchun UZTELECOM ofisiga hujjatlar taqdim etiladi.",
+
+              "Navbatdagi o‘quv yili tugashi bilan kompaniya ushbu tarifga ulangan abonentlarni bloklash huquqini o‘zida saqlab qoladi.",
+
+              "Mazkur holatlarda abonentlar ulanish uchun mavjud bo‘lgan boshqa har qanday tarif rejasiga o‘tishlari yoki hujjatlarini tasdiqlash uchun UZTELECOM sotuv va xizmat ko‘rsatish ofisiga murojaat qilishlari mumkin."
+            ],
+            "titleRu":"Тарифный план интернета «Мактаб» для школьников:",
+            "descriptionRu":[
+                "Школа 29 900 сумов в месяц",
+
+"Входной лимит 200 минут",
+
+"Включенный в тарифный план лимит составляет 500 минут в месяц",
+
+"Интернет 500 МБ включенный лимит",
+
+"СМС включенный лимит 500 СМС",
+
+"Тарифный план ШКОЛА предназначен для школьников, регистрация услуги осуществляется при наличии свидетельства о рождении ребенка по месту жительства.",
+
+"Для подключения к тарифу документы предоставляются в офис UZTELECOM.",
+
+"По окончании очередного учебного года компания оставляет за собой право блокировать абонентов, подключенных к данному тарифу.",
+
+"В этих случаях абоненты могут перейти на любой другой тарифный план, доступный для подключения, или обратиться в офис продаж и обслуживания UZTELECOM для подтверждения своих документов"
+            ],
+            "titleEn":"School internet tariff plan for school students:",
+            "descriptionEn":[
+              "School 29,900 soums per month",
+
+"Input limit 200 minutes",
+
+"The limit included in the tariff plan is 500 minutes per month",
+
+"Internet 500 MB included limit",
+
+"SMS included limit 500 SMS",
+
+"The SCHOOL tariff plan is intended for schoolchildren, registration of the service is carried out upon presentation of a birth certificate of the child at the place of residence.",
+
+"To connect to the tariff, documents are provided to the UZTELECOM office.",
+
+"At the end of the next academic year, the company reserves the right to block subscribers connected to this tariff.",
+
+"In these cases, subscribers can switch to any other tariff plan available for connection, or contact the UZTELECOM sales and service office to confirm their documents"
+            ],
+            "linkToService" : "https://uztelecom.uz/uz/jismoniy-shaxslarga/mobil-aloqa/gsm/tariflar/imtiyozli-tarif-rejalar/maktab",
+            "category": "talim"
+        },
+        {
+            "id":14,
+            "titleUz":"“Talaba” internet tarif rejasi:",
+            "descriptionUz":[
+                "TALABA 59 000 so‘m oyiga Trafikka kiritilgan limit Cheksiz",
+
+                "Internet tarmog‘iga ulanish tezligi, 20:00 dan 08:00 gacha 128 Kbit/s",
+
+                "Internet tarmog‘iga ulanish tezligi, 08:00 dan 20:00 gacha 6 Mbit/s",
+
+                "Uz-IX va TAS-IX ga ulanish tezligi (ADSL) 6 Mbit/s",
+
+                "20 Mbit/s Uz-IX va TAS-IX ga ulanish tezligi (FTTx) 20 Mbit/s TAS-IX va UZ-IX tarmog'i uchun (tunu-kun) texnologiyalar bo'yicha Internet tezligi:",
+
+                "TALABA tarif rejasi faqat oliy va o'rta-maxsus o'quv yurtlari (institutlar, universitetlar, litsey va kollejlar) talabalari uchun mo‘ljallangan, Tarifga ulanishni UZTELECOM ofislarida amalga oshirish mumkin",
+
+              "Navbatdagi o'quv yili tugashi bilan Kompaniya ushbu tarifga ulangan abonentlarni bloklash huquqini o'zida saqlab qoladi",
+
+              "Ulanishda talabalik guvohnomasi yoki ta'lim olayotganligini tasdiqlovchi hujjat taqdim etilishi zarur. Xizmatga ulanish talaba ro'yxatga olingan (yashash) joyi bo'yicha amalga oshiriladi."
+            ],
+            "titleRu":"Тарифный план интернета «Студенческий»:",
+            "descriptionRu":[
+                "Включенный лимит трафика Безлимитный",
+
+ "Скорость интернет-соединения с 20:00 до 08:00 128 Кбит/с",
+
+ "Скорость интернет-соединения, 6 Мбит/с с 08:00 до 20:00",
+
+ "Скорость соединения Uz-IX и TAS-IX (ADSL) 6 Мбит/с",
+
+ "Скорость соединения Uz-IX и TAS-IX 20 Мбит/с (FTTx) Сеть TAS-IX и UZ-IX 20 Мбит/с (день и ночь) Скорость интернета по технологиям:",
+
+ "Тарифный план СТУДЕНТ предназначен только для студентов высших и средних специальных учебных заведений (институтов, университетов, лицеев и колледжей). Подключение к тарифу можно осуществить в офисах УЗТЕЛЕКОМ",
+
+ "В конце следующего учебного года Компания оставляет за собой право заблокировать абонентов, подключенных к данному тарифу",
+
+ "При подключении необходимо предъявить студенческий билет или документ, подтверждающий образование. Подключение к услуге осуществляется по месту регистрации (проживания) обучающегося"
+            ],
+            "titleEn":"Student internet tariff plan:",
+            "descriptionEn":[
+                "Included traffic limit Unlimited",
+
+"Internet connection speed from 20:00 to 08:00 128 Kbps",
+
+"Internet connection speed, 6 Mbps from 08:00 to 20:00",
+
+"Uz-IX and TAS-IX connection speed (ADSL) 6 Mbps",
+
+"Uz-IX and TAS-IX connection speed 20 Mbps (FTTx) TAS-IX and UZ-IX network 20 Mbps (day and night) Internet speed by technology:",
+
+"The STUDENT tariff plan is intended only for students of higher and secondary specialized educational institutions (institutes, universities, lyceums and colleges). Connection to the tariff can be made in UZTELECOM offices",
+
+"At the end of the next academic year, the Company reserves the right to block subscribers connected to this tariff",
+
+"When connecting, you must present a student ID or a document confirming your education. Connection to the service is carried out at the place of registration (residence) of the student"
+            ],
+            "linkToService" : "https://uztelecom.uz/uz/jismoniy-shaxslarga/internet/tariflar/talaba/talaba",
+            "category": "talim"
+        },
+        {
+            "id":15,
+            "titleUz":"“Ta’lim” tarif rejasi:",
+            "descriptionUz":[
+                "TA’LIM 34 900 so‘m oyiga",
+
+                "Kiritilgan limit 300 daqiqa",
+
+                "Tarif rejasi doirasida kiritilgan limit oyiga 1000 daqiqa",
+
+                "Internet kiritilgan limit 8000 MB",
+
+                "SMS kiritilgan limit 500 SMS",
+
+                "Ta’lim tarif rejasi faqat oliy va o‘rta-maxsus o‘quv yurtlari (institut, universitet, litsey va kollej) talabalari uchun mo‘ljallangan.",
+
+              "Xizmatga ulanish o‘quv yili davomida talaba ro‘yxatga olingan (yashash) joyi bo‘yicha amalga oshiriladi. ",
+
+              "Ulanishda talabalik guvohnomasi yoki ta’lim olayotganligini tasdiqlovchi hujjat taqdim etilishi zarur.",
+
+              "Ushbu tarifda ZiyoNET xizmatiga ulanganda, xizmat uchun abonent to‘lovi 50 foiz arzonlashtirilgan narxda taqdim etiladi. Oylik abonent to‘lovi 34 900 so‘m."
+            ],
+            "titleRu":"Тарифный план «Образование»:",
+            "descriptionRu":[
+                "Образование 34 900 Сум в месяц",
+
+                "Введенный лимит 300 минут",
+
+                "Лимит, введенный в рамках тарифного плана, составляет 1000 минут в месяц",
+
+                "Лимит ввода интернета 8000 МБ",
+
+                "SMS-вход лимит 500 SMS",
+
+                "Образовательный тарифный план предназначен только для студентов высших и средне-специальных учебных заведений (институтов, университетов, лицеев и колледжей).",
+
+              "Подключение к услуге осуществляется в течение учебного года по месту прописки (проживания) студента. ",
+
+              "При подключении необходимо предоставить студенческий билет или документ, подтверждающий, что вы проходите обучение.",
+
+              "При подключении к услуге ZiyoNET по данному тарифу абонентская плата за услугу предоставляется со скидкой 50%. Ежемесячная абонентская плата составляет 34 900 Сум."
+            ],
+            "titleEn":"Education tariff plan:",
+            "descriptionEn":[
+               "Education 34,900 per month",
+
+                "Entered limit 300 minutes",
+
+                "The limit entered under the tariff plan is 1000 minutes per month",
+
+                "Internet included limit 8000 MB",
+
+                "SMS included limit 500 SMS",
+
+                "The educational tariff plan is intended only for students of higher and secondary-specialized educational institutions (institutes, universities, lyceums and colleges).",
+
+              "The connection to the service is made by the place of registration (residence) of the student during the academic year. ",
+
+              "When connecting, it is necessary to provide a student certificate or a document confirming his education.",
+
+              "When connecting to the service of ZiyoNET in this tariff, the subscriber fee for the service is provided at a reduced price of 50 percent. Monthly subscription fee is 34,900."
+            ],
+            "linkToService" : "https://ziyonet.uz/ru",
+            "category": "talim"
+        },
+        {
+            "id":16,
+            "titleUz":"“Volontyor” tarif rejasi:",
+            "descriptionUz":[
+                "VOLONTYOR 30 000 so‘m oyiga Kiritilgan limit Cheksiz",
+
+                "SMS kiritilgan limit 2000 SMS",
+
+                "Internet kiritilgan limit 20 GB",
+
+                "Ushbu tarif rejasiga ulanish UZTELECOM ofislarida amalga oshiriladi.",
+
+                "Volontyor tarifiga ulanish abonent tomonidan taqdim etilgan, www.volontyor.uz platformasi orqali ro‘yxatdan o‘tkazilgan va himoyalangan maxsus QR-kod, shuningdek, QR-kod ma'lumotlari bilan mos keladigan, uning shaxsini tasdiqlovchi hujjat taqdim etilganda, amalga oshiriladi."
+            ],
+            "titleRu":"Тарифный план” волонтер:",
+            "descriptionRu":[
+                "Волонтер 30 000 сум в месяц лимит неограничен",
+
+                "SMS-вход лимит 2000 SMS",
+
+                "Лимит доступа в интернет составляет 20 ГБ",
+
+                "Подключение к данному тарифному плану осуществляется в офисах УЗТЕЛЕКОМА.",
+
+                "Подключение к волонтерскому тарифу предоставляется абонентом, www.volontyor.uz специальный QR-код, зарегистрированный и защищенный через платформу QR-кода, также будет реализован при предъявлении документа, удостоверяющего его личность, совместимого с данными QR-кода."
+            ],
+            "titleEn":"Tariff plan” Volontyor:",
+            "descriptionEn":[
+                "VOLONTYOR 30,000 per month included limit unlimited",
+
+                "SMS included limit 2000 SMS",
+
+                "Internet included limit 20 GB",
+
+                "The connection to this tariff plan is made in the offices of UZTELECOM.",
+
+                "The connection to the Volontyor tariff is provided by the subscriber, www.volontyor.uz a special QR Code, Registered and protected through the platform, is also implemented when a certificate of its identity is provided, which is compatible with the QR code data."
+            ],
+            "linkToService" : "https://uztelecom.uz/uz/jismoniy-shaxslarga/mobil-aloqa/gsm/tariflar/imtiyozli-tarif-rejalar/volontyor",
+            "category": "talim"
+        },
+        {
+            "id":17,
+            "titleUz":"Kasb-hunar va tadbirkorlikka o‘qitish bo‘yicha NTTlarga o‘quv kurslarining bitiruvchilari uchun sarflangan xarajatining 70 foizini (har bir bitiruvchiga 1\u00A0mln so‘mdan ortiq bo‘lmagan) davlat tomonidan kompensatsiya qilish mexanizmi",
+            "descriptionUz":[
+                "Nodavlat ta’lim tashkiloti Ta’lim sifatini nazorat qilish davlat inspeksiyasiga ariza taqdim etadi. (Har yili 1-noyabrga qadar)",
+
+                "NTTlar ro‘yxati shakllantiriladi hamda Mahallabay ishlash va tadbirkorlikni rivojlantirish agentligiga yuboriladi. (Har yili 1-dekabrga qadar)",
+
+                "Belgilangan talablar ta’minlanmagan taqdirda bu haqda Inspeksiyaga xabar yuboriladi, taqdim etilgan hujjatlar qaytariladi. (Har yili 1-dekabrga qadar)",
+
+                "Hujjatlar qaytarilganligi to‘g‘risida tegishli NTTlar xabardor qilinadi. (1 ish kuni ichida)",
+
+                "Kamchiliklar bartaraf etilib, hujjatlar Inspeksiyaga qayta taqdim qilinadi. (3 ish kuni ichida)",
+
+                "Qayta taqdim qilingan hujjatlar vakolatli davlat organiga takroran yuboriladi. (2 ish kuni ichida)",
+
+              "Takroran taqdim etilgan barcha hujjat va ma’lumotlar umumlashtirgan holda NTTlaring elektron reyestri shakllantiriladi. (Har yili 1 yanvarga qadar)",
+
+              "Elektron reyestrga kiritilgan NTT tuman (shahar) bandlikka ko'maklashish markazlari va vakolatli davlat organining hududlardagi boshqarmalariga rasmiy xabarnoma yo'llaydi. (Xabarnomada o‘qitish joyi, yo‘nalishlari to'g'risidagi ma'lumotlar aks ettiriladi va tinglovchilari ro'yxati ilova qilinadi. NTTlar o'quv dasturlari doirasida tinglovchilarni shartnoma va to'lov asosida o'qishga qabul qiladi). (O'quv kurslari boshlanishidan kamida 3 kun oldin)",
+
+              "Kurslar tajribali mutaxassis, o‘qituvchi, usta va murabbiylar tomonidan olib boriladi",
+
+              "NTTlar tuman (shahar) bandlikka ko‘maklashish markazlariga bitiruvchilarni test sinovidan o‘tkazishni tashkil etish uchun rasmiy xabarnoma taqdim etadi. (O‘quv kurslari yakunlanishidan 2 kun oldin)",
+
+              "Kurs yakunlariga ko‘ra bitiruvchilar test va imtihon sinovidan o‘tkaziladi (amaliy imtihonlar ham olinishi mumkin).",
+
+              "Yakuniy sinovlar natijasida 71 va undan yuqori ball to‘plaganlarga sertifikat beriladi.",
+
+              "Sertifikatga ega bo‘lgan bitiruvchilar kasb-hunar hamda tadbirkorlikka o‘qitish bo‘yicha sarflagan xarajatlarini qoplab berish uchun so‘ralgan hujjatlarni ilova qilgan holda vakolatli davlat organiga rasmiy murojaat qiladi.",
+
+              "Vakolatli davlat organi va NTT Murojaatnoma va hujjatlarni ko‘rib chiqish yakunlari asosida o‘zaro shartnoma tuzadi.",
+
+              " Agarda hujjatlar to‘liq taqdim etilmasa taqdim etilgan hujjatlar qaytariladi. (NTTlar kamchiliklarni bartaraf etgan holda takroran murojaat qilishga haqli). (1 ish kuni ichida)",
+
+              "Vakolatli davlat organi NTTlarga belgilangan kompensatsiya mablag‘larini o‘tkazib beradi. (1 ish kuni ichida)",
+
+              " NTT vakolatli davlat organidan olingan kompensatsiya mablag‘larini sertifikat olgan bitiruvchilarga qaytarib beradi. (Mablag‘ kelib tushgan kundan boshlab 2 ish kuni mobaynida)"
+            ],
+            "titleRu":"Механизм компенсации государством 70% затрат (не более 1 млн. сумов на каждого выпускника) для выпускников учебных курсов НТТ по обучению профессии и предпринимательству:",
+            "descriptionRu":[
+                "Негосударственная образовательная организация подает заявление в Государственную инспекцию по контролю качества образования. (До 1 ноября каждого года)",
+
+                "Список НТО будет сформирован и направлен в агентство по работе с махаллями и развитию предпринимательства. (До 1 декабря каждого года)",
+
+                "В случае неудовлетворения установленных требований об этом направляется уведомление в инспекцию, представленные документы возвращаются. (До 1 декабря каждого года)",
+
+                "О возврате документов извещаются соответствующие НТС. (В течение 1 рабочего дня)",
+
+                "Недостатки будут устранены, и документы будут повторно представлены в инспекцию. (В течение 3 рабочих дней)",
+
+                "Повторно представленные документы повторно направляются в уполномоченный государственный орган. (В течение 2 РАБОЧИХ дней)",
+
+              "Будет сформирован электронный реестр НТТ с обобщением всех документов и информации, представленных повторно. (До 1 января каждого года",
+
+              "НТТ, включенные в электронный реестр, направляют официальное уведомление районным (городским) центрам содействия занятости населения и региональным управлениям уполномоченного государственного органа. (В уведомлении отражается информация о месте обучения, направлениях и прилагается список слушателей. NTT принимают стажеров на обучение по контракту и за плату в рамках своей учебной программы). (Минимум за 3 дня до начала учебных курсов)",
+
+              "Курсы проводят опытные профессионалы, инструкторы, мастера и тренеры",
+
+              "НТТ предоставляют районным (городским) центрам содействия трудоустройству официальное уведомление об организации тестирования выпускников. (За 2 дня до окончания учебных курсов)",
+
+              "По окончании курса выпускники проходят тестирование и экзаменационное тестирование (также могут быть сданы практические экзамены).",
+
+              "Сертификат будет выдан тем, кто наберет 71 балл или выше в результате итоговых тестов.",
+
+              "Выпускники, имеющие сертификат, подают официальное заявление в уполномоченный государственный орган с приложением запрошенных документов для возмещения расходов на обучение профессии и предпринимательству.",
+
+              "Уполномоченный государственный орган и НТТ заключают между собой договор по итогам рассмотрения обращения и документов.",
+
+              "Предоставленные документы возвращаются, если документы не предоставлены в полном объеме. (НТТ имеют право на повторное обращение с устранением недостатков). (В течение 1 рабочего дня)",
+
+              "Уполномоченный государственный орган перечисляет установленные компенсационные средства. (В течение 1 рабочего дня)",
+
+              "НТТ возвращает компенсационные средства, полученные от уполномоченного государственного органа, выпускникам, получившим сертификат. (В течение 2 РАБОЧИХ дней с момента поступления средств)"
+            ],
+            "titleEn":"The mechanism of state compensation for 70% of the cost of graduates of their studies to Ntts for vocational and entrepreneurial training (not more than 1 million rubles per graduate) :",
+            "descriptionEn":[
+                "The non-governmental educational organization submits a petition to the state inspectorate for quality control of Education. (Until November 1 of each year)",
+
+                "A list of ntts will be formed and sent to the Mahallabay agency for work and Entrepreneurship Development. (Until December 1 of each year)",
+
+                "In the event that the specified requirements are not provided, a message is sent to the inspection about this, the submitted documents are returned. (Until December 1 of each year)",
+
+                "Relevant Ntts will be notified of the return of documents. (Within 1 working day)",
+
+                "The deficiencies will be eliminated and the documents will be re-submitted to the inspection. (Within 3 working days)",
+
+                "Re-submitted documents are sent repeatedly to an authorized state body. (Within 2 working days)",
+
+              "An electronic register of Ntts is formed, summarizing all the documents and information repeatedly presented. (As of January 1 of each year",
+
+              "The NTT district (city), which is included in the electronic register, sends an official notification to the employment assistance centers and the Departments of the authorized state body in the regions. (The notice reflects information about the place of training, directions, and adds a list of its listeners. Ntts enroll listeners under training programs on a contract and fee basis). (At least 3 days before the start of training courses)",
+
+              "Courses are conducted by an experienced specialist, teacher, Master and mentors",
+
+              "Ntts district (city) employment assistance centers, which provide an official notice to organize the testing of graduates. (2 days before the end of training courses)",
+
+              "According to the results of the course, graduates are subjected to a test and an examination test (practical exams can also be taken).",
+
+              "As a result of the final tests, those who score 71 and above are awarded a certificate.",
+
+              "Graduates with a certificate make an official application to the competent state body with the attachment of the requested documents to cover the expenses spent on vocational and entrepreneurial training.",
+
+              "The competent state body and the NTT conclude a mutual agreement on the basis of the results of consideration of the application and documents.",
+
+              "If the documents are not fully submitted, the submitted documents will be returned. (Ntts have the right to apply repeatedly, eliminating deficiencies). (Within 1 working day)",
+
+              "The authorized state passes the compensation funds prescribed to the organintts. (Within 1 working day)",
+
+              "The NTT will return the compensation funds received from the Authorized Public body to the graduates who have received the certificate. (Within 2 working days from the date of receipt of funds)"
+            ],
+            "linkToService" : "https://lex.uz/docs/-6559829",
+            "category": "talim"
+        },
+        {
+            "id":18,
+            "titleUz":"Yoshlarni IT kasblarga yo‘naltiruvchi platforma:",
+            "descriptionUz":[
+                "Back-End, Front-End, Mobil robototexnika, Android, Dizayn, Web-dizayn, IT-English, ITga kirish, Motion-design kurslari haqida ma’lumotlar bir yerga jamlangan manzil"
+            ],
+            "titleRu":"Платформа, направляющая молодежь к ИТ-профессиям:",
+            "descriptionRu":[
+                "Информация о Back-end, front-end, мобильной робототехнике, Android, дизайне, веб-дизайне, IT-English, it-Entry, Motion-Design курсы собраны в одном месте адрес"
+            ],
+            "titleEn":"Platform that directs young people to IT professions:",
+            "descriptionEn":[
+                "Information about Back-End, Front-End, Mobile Robotics, Android, design, Web design, it-English, it access, Motion-design courses concentrated in one location"
+            ],
+            "linkToService" : "https://www.education.it-park.uz/",
+            "category": "talim"
+        },
+        {
+            "id":19,
+            "titleUz":"Kollej va texnikumlarda o‘qitish bo‘yicha shartnomalarni elektron tarzda taqdim etish axborot tizimi:",
+            "descriptionUz":[
+                "prof-kontrakt.edu.uz platformasidan ro‘yxatdan o‘tib, shaxsiy ma’lumotlar kiritiladi;",
+
+                "Shartnoma turi tanlanadi va 2 ariza topshiriladi; ",
+
+                "Ariza tasdiqlagandan so‘ng shaxsiy kabinetdan shartnomani yuklab olish mumkin;"
+            ],
+            "titleRu":"Информационная система электронного представления договоров на обучение в колледжах и техникумах:",
+            "descriptionRu":[
+               "prof-kontrakt.edu.uz регистрируясь на платформе, вводятся личные данные;",
+
+                "Выбирается тип договора и подаются 2 заявки;",
+
+                "После утверждения заявки можно скачать договор из личного кабинета;"
+            ],
+            "titleEn":"Electronic submission of contracts for training in colleges and technical schools Information System:",
+            "descriptionEn":[
+               "prof-kontrakt.edu.uz by registering on the platform, personal data is entered;",
+
+                "The type of contract is selected and 2 applications are submitted;",
+
+                "It is possible to download the contract from the personal cabinet after confirming the application;"
+            ],
+            "linkToService" : "https://kontrakt.edu.uz/",
+            "category": "talim"
+        },
+        {
+            "id":20,
+            "titleUz":"Yoshlar ishlari agentligi faol a’zolariga OTMga kirishida imtiyozlar berish mexanizmi:",
+            "descriptionUz":[
+                "Talabgorlar tanlovda ishtirok etish uchun o‘z hududidagi tuman (shahar) komissiyasiga hujjatlarni taqdim etadi. (25-martgacha)",
+
+                "Nomzodlar orasida respublika komissiyasi tasdiqlangan baholash tartibiga muvofiq tanlov o‘tkazadi. (15-aprelgacha)",
+
+                "Tanlov yakunlariga ko‘ra, 3 nafar g‘olib nomzod hujjatlarini hududiy 3 komissiyaga yuboradi. (2 ish kuni)",
+
+                "Nomzodlar orasida respublika komissiyasi tomonidan tasdiqlangan baholash tartibiga muvofiq tanlov o‘tkaziladi. (30-aprelgacha)",
+
+                "Tanlov yakuni bo‘yicha 3 nafar g‘olib nomzodning hujjatlari tanlov yakunlangandan so‘ng respublika komissiyasiga yuboriladi. (2 kun)",
+
+                "Hududiy komissiya tomonidan taqdim etilgan nomzodlar uchun tanlov o‘tkaziladi. (15-maygacha)",
+
+              "Tanlov natijalariga ko‘ra Qoraqalpog‘iston, viloyatlar va Toshkent shahrining bir nafardan (jami 14 nafar) eng munosib yoshlar ro‘yxati tasdiqlanadi hamda OTMga qabul qilish bo‘yicha davlat komissiyasiga taqdimnoma kiritiladi. (10 kun ichida)",
+
+              "Respublika komissiyasi kiritilgan taqdimnomani o‘rnatilgan tartibda ko‘rib chiqib, tegishli qaror qabul 8 qiladi."
+            ],
+            "titleRu":"Механизм предоставления льгот активным членам Агентства по делам молодежи при входе в ОТМ:",
+            "descriptionRu":[
+               "Претенденты подают документы в районную (городскую) комиссию на своей территории для участия в конкурсе. (До 25 марта)",
+
+                "Среди кандидатов республиканская комиссия проводит отбор в соответствии с утвержденным порядком оценки. (До 15 апреля)",
+
+                "По итогам конкурса 3 победителя направят документы кандидатов в 3 территориальные комиссии. (2 рабочих дня)",
+
+                "Среди кандидатов проводится отбор в соответствии с процедурой оценки, утвержденной республиканской комиссией. (До 30 апреля)",
+
+                "По итогам конкурса документы 3 кандидатов-победителей направляются в республиканскую комиссию по завершении конкурса. (2 дня)",
+
+                "Проводится отбор кандидатов, представленных территориальной комиссией. (До 15 мая)",
+
+              "По результатам конкурса утверждается список наиболее подходящей молодежи из Каракалпакстана, областей и города Ташкента (всего 14 человек) и вносится представление в Государственную комиссию по приему в вузы. (В течение 10 дней)",
+
+              "Республиканская комиссия рассмотрит поступившее представление в установленном порядке и примет соответствующее решение."
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://lex.uz/docs/-3409650",
+            "category": "talim"
+        },
+        {
+            "id":21,
+            "titleUz":"Auditning xalqaro standartlari bo‘yicha bepul o‘qitish ta’lim platformasi:",
+            "descriptionUz":[
+                "Auditning xalqaro standartlari bo‘yicha bepul o‘qitish ta’lim platformasining maqsadi:",
+
+              "AKTdan foydalanish asosida o‘quvchining turar joyidan qat’i nazar, unga ta’lim dasturlarini o‘zlashtirish uchun imkoniyat taqdim etish;",
+
+              "Mamlakat miqyosidagi barcha hududlar va chet eldagi barcha o‘quvchilar, talabalar, ta’lim olishni xohlovchilarga birdek ta’lim olish imkoniyatini yaratib berish;",
+
+              "Kadrlarni qayta tayyorlash;",
+
+              "Ta’lim muassasalarining ilmiy va ta’lim berish potensiallaridan foydalanish evaziga ta’lim berishning sifat darajasini oshirish;",
+
+              "Asosiy ta’lim va asosiy ish faoliyati bilan parallel ravishda qo‘shimcha ta’lim olish imkoniyatini yaratib berish;", 
+
+              "Ta’lim oluvchilarni ta’lim olishga bo‘lgan ehtiyojini qondirish va ta’lim muhitini kengaytirish.",
+
+              "Uzluksiz ta’lim imkoniyatlarini yaratish;",
+
+              "Ta’lim tizimini xalqaro ta’lim standartlari darajasigacha takomillashtirish."
+            ],
+            "titleRu":"Бесплатная обучающая образовательная платформа по международным стандартам аудита:",
+            "descriptionRu":[
+                "Цель образовательной платформы бесплатного обучения в соответствии с международными стандартами аудита:",
+
+              "Предоставление учащемуся независимо от места жительства возможности освоения образовательных программ на основе использования ИКТ;",
+
+              "Предоставление равного доступа к образованию всем учащимся, студентам, желающим получить образование на всей территории страны и за рубежом;",
+
+              "Переподготовка кадров;",
+
+              "Повышение уровня качества образования за счет использования научно-образовательного потенциала образовательных учреждений;",
+
+              "Предоставление возможности получения дополнительного образования параллельно с основным образованием и основной трудовой деятельностью;", 
+
+              "Удовлетворение потребностей обучающихся в обучении и расширение образовательной среды.",
+
+              "Создание возможностей непрерывного образования",
+
+              "Совершенствование системы образования до уровня международных образовательных стандартов."
+            ],
+            "titleEn":":",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://lex.uz/uz/docs/-5952173",
+            "category": "talim"
+        },
+        {
+            "id":22,
+            "titleUz":"Auditning xalqaro standartlari bo‘yicha bepul o‘qitish ta’lim platformasining vazifalari:",
+            "descriptionUz":[
+                "Ta’lim olish jarayonida ta’lim oluvchilar uchun teng imkoniyatlar yaratish va shaffoflikni ta’minlash;",
+
+                "Ta’lim hajmi va mazmunini, yetarli darajasini, kadrlar tayyorlash sifatini nazorat qilish hamda baholash darajalarini belgilaydigan me’yorlar va talablar;",
+
+                "Masofaviy ta’lim sifati monitoringini tashkil etish;",
+
+                "Masofaviy ta’lim shakli asosida kadrlar tayyorlash;",
+
+                "Auditning xalqaro standartlariga quyidagi yo‘nalishlar bo‘yicha o‘qitish: ",
+
+                "Auditning xalqaro standartlari;  sifat nazoratining xalqaro standartlari;  tahliliy tekshirishlarning xalqaro standartlari;  ishonchni ta’minlaydigan topshiriqlarning xalqaro standartlari;  turdosh xizmatlarning xalqaro standartlari."
+            ],
+            "titleRu":"Задачи образовательной платформы бесплатного обучения по международным стандартам аудита:",
+            "descriptionRu":[
+                "Обеспечение равных возможностей и прозрачности для обучающихся в процессе обучения",
+
+                "Нормы и требования, определяющие объем и содержание обучения, уровень адекватности, контроль качества подготовки и уровни оценки;",
+
+                "Организация мониторинга качества дистанционного образования;",
+
+                "Подготовка кадров на основе дистанционной формы обучения;",
+
+                "Обучение международным стандартам аудита по следующим направлениям:",
+
+                "международные стандарты аудита; • международные стандарты контроля качества; • международные стандарты аналитических проверок; • международные стандарты задач, обеспечивающих доверие; * международные стандарты смежных услуг."
+            ],
+            "titleEn":":",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "",
+            "category": "talim"
+        },
+        {
+            "id":23,
+            "titleUz":"kasb.maktab.uz o‘quvchilarni kasbga yo‘naltirishga qaratilgan onlayn platforma:",
+            "descriptionUz":[
+                "Maktab o‘quvchilarining qiziqishlarini aniqlash, ularni kasbga yo‘naltirish bo‘yicha yagona tizim yaratishga mo‘ljallangan platforma.",
+
+                "O‘quvchilarning kasb-hunarga bo‘lgan qiziqish va qobiliyatlarini aniqlash;",
+
+                "Maktab o‘quvchilarini kasb-hunarga yo‘naltirish; Maktab bitiruvchilariga kelajak kasbini tanlashda ko‘maklashish;",
+
+                "Bitiruvchi sinf o‘quvchilari uchun mamlakatda va butun jahonda aktual kasblar to‘g‘risidagi ma’lumotlar bazasini yaratish; O‘quvchilarning intellektual rivojlanishi va emotsional holatini monitoring qilish;",
+
+                "O‘quvchilarning ijtimoiy faolligi (jinoyatga moyillik darajasi, suitsid xavfi, zo‘ravonlik va tazyiq)ni aniqlash;",
+
+                "O‘qituvchi va o‘quvchilarga tezkor onlayn psixologik yordam ko‘rsatish; Kasbiy qiziqish va qobiliyatlariga ko‘ra, mos to‘garak yoki onlayn ta’lim manbalarini tavsiya qilish;",
+
+              "Kasb-hunarga yo‘naltiruvchi yagona elektron platformani mavjud platformalar bilan integratsiya qilish, statistik ma’lumotlar oynasini yaratish hamda doimiy monitoring qilish O‘quvchining kelajakda mutaxassis bo‘lib yetishishi, undagi ijtimoiy va kasbiy sifatlarning shakllanishiga zamin yaratish",
+
+              "Psixologik hamda IQ-testlar o‘tkazish orqali o‘quvchilarni kasbga yo‘naltirish; Bitiruvchi sinf o‘quvchilarini mamlakat va jahondagi aktual kasblar (Kasblar Atlasi) bilan tanishtirish; ",
+
+              "Respublika bo‘ylab maktab o‘quvchilarining kasbga yo‘naltirishga oid ma’lumotlarini tizimlashtirish va monitoring qilish imkoniyatini yaratish."
+            ],
+            "titleRu":"kasb.maktab.uz онлайн-платформа, ориентированная на профориентацию студентов:",
+            "descriptionRu":[
+                "Платформа, предназначенная для создания единой системы выявления интересов школьников, их профессиональной ориентации.",
+
+                "Выявление профессиональных интересов и способностей учащихся",
+
+                "Профориентация школьников; оказание помощи выпускникам школ в выборе будущей профессии",
+
+                "Создание базы данных по актуальным профессиям в стране и во всем мире для учащихся выпускных классов; мониторинг интеллектуального развития и эмоционального состояния учащихся",
+
+                "Определение социальной активности учащихся (уровень преступности, риск суицида, насилия и угнетения)",
+
+                "Оказывать быструю психологическую помощь учителям и ученикам в режиме онлайн; рекомендовать соответствующие кружки или онлайн-ресурсы для обучения в соответствии с их профессиональными интересами и способностями",
+
+              "Интеграция единой электронной профориентационной платформы с существующими платформами, создание окна статистических данных, а также постоянный мониторинг создают основу для дальнейшего развития учащегося в качестве специалиста, формирования у него социальных и профессиональных качеств",
+
+              "Профориентация учащихся посредством проведения психологических и IQ-тестов; знакомство учащихся выпускных классов с актуальными профессиями страны и мира (Атлас профессий);",
+
+              "Создание возможности систематизации и мониторинга профориентационной информации школьников по всей республике."
+            ],
+            "titleEn":":",
+            "descriptionEn":[
+               
+            ],
+            "linkToService" : "https://kasb.maktab.uz/",
+            "category": "talim"
+        },
+       {
+            "id":24,
+            "titleUz":"“Ta’lim-kredit” axborot tizimi:",
+            "descriptionUz":[
+                "O‘zbekistonda faoliyat ko‘rsatayotgan barcha oliy, o‘rta maxsus va professional ta’lim tashkilotlarida va qo‘shma ta’lim dasturlari bo‘yicha bakalavr hamda magistraturaning kunduzgi, sirtqi va kechki ta’lim shaklida to‘lov-kontrakt asosida tahsil olish uchun O‘zbekiston fuqarolariga mo‘ljallangan.",
+
+                "Talim-krediti.uz saytida ro‘yxatdan o‘tib, onlayn ariza yuboriladi.",
+
+                "Kreditlar bo‘yicha mablag‘lar ta’lim tashkilotlariga tijorat banklari tomonidan ta’lim krediti shartnomasida ko‘rsatilgan shartlarda o‘quv yili mobaynida o‘qish uchun yillik to‘lovning to‘liq miqdorini belgilangan tartibda, teng ulushlarda to‘rt qismga bo‘lish yo‘li bilan o‘tkaziladi.",
+
+                "Ta’lim krediti yillik 14 foizdan (xotin-qizlarga foizsiz) ajratiladi, kreditning asosiy qarzi kredit oluvchi tomonidan ta’lim tashkilotida ta’limning tegishli turi bo‘yicha rasmiy o‘qish muddati tugagandan so‘ng yettinchi oydan boshlab 7 yil davomida qaytariladi.",
+
+                "Ijtimoiy himoya yagona reyestriga kirgan oilalarning farzandlariga ajratiladigan ta’lim krediti bo‘yicha garov va kafillik talab etilmaydi.",
+
+                "Banklar kredit oluvchining yozma arizasiga asosan to‘lov-kontrakt asosida o‘qish haqidagi shartnomasida (kontraktida) nazarda tutilgan hollarda o‘qishning yarim yil yoki to‘liq bir yil uchun to‘lov summasini biryo‘la amalga oshirishi mumkin. (3 ish kuni)",
+
+              "Kredit oluvchining doimiy daromad manbaiga ega bo‘lgan oila a’zolari yoki boshqa uchinchi shaxslar ta’lim krediti shartnomasida birgalikda kredit oluvchi sifatida qatnashishlari mumkin.",
+
+              "Kerakli hujjatlar: - ariza; - shaxsni tasdiqlovchi hujjat; - kredit qaytarilishi ta’minoti; - ta’lim muassasasi bilan tuzilgan shartnoma. "
+            ],
+            "titleRu":"Информационная система” образование-кредит:",
+            "descriptionRu":[
+                "Предназначен для граждан Узбекистана для обучения на платно-контрактной основе во всех организациях высшего, среднего специального и профессионального образования, действующих в Узбекистане, и по совместным образовательным программам бакалавриата и магистратуры по очной, заочной и вечерней формам обучения.",
+
+                "Talim-krediti.uz регистрация на сайте и отправка онлайн-заявки.",
+
+                "Денежные средства по кредитам перечисляются образовательным организациям коммерческими банками на условиях, указанных в договоре образовательного кредита, в течение учебного года путем разделения полной суммы годовой платы за обучение в установленном порядке на четыре части равными долями.",
+
+                "Образовательный кредит выделяется под 14% годовых (беспроцентный для женщин), основная сумма кредита погашается заемщиком в течение 7 лет, начиная с седьмого месяца после окончания формального обучения соответствующему виду образования в образовательной организации.",
+
+                "Залог и поручительство по образовательному кредиту, предоставляемому детям из семей, включенных в Единый реестр социальной защиты, не требуются.",
+
+                "Банки могут на основании письменного заявления заемщика на платно-контрактной основе осуществлять единовременную выплату суммы за полугодие или полный год обучения в случаях, предусмотренных договором (контрактом) об обучении. (3 рабочих дня)",
+
+              "Члены семьи или другие третьи лица, имеющие постоянный источник дохода заемщика, могут участвовать в качестве совместных заемщиков в Соглашении об образовательном кредите.",
+
+              "Необходимые документы: - заявление; - документ, удостоверяющий личность; - обеспечение возврата кредита; - договор с образовательным учреждением. "
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://talim-krediti.uz/",
+            "category": "talim"
+        },
+      {
+            "id":25,
+            "titleUz":"Iqtidorli yoshlarni qo‘llab quvvatlash maqsadida Prezident grantlari ajratish:",
+            "descriptionUz":[
+                "Davlat oliy ta’lim muassasalari bakalavriatining kunduzgi ta’lim shakliga kirish imtihonlari natijalariga ko‘ra, ta’lim sohalari kesimida, ta’lim olish tilidan qat’i nazar, respublika bo‘yicha eng yuqori ball to‘plagan abituriyentlarning 200 nafari Prezident grantiga da’vogar bo‘ladi.",
+
+                "Prezident granti uchun ajratilgan kvotaning ta’lim sohalari bo‘yicha taqsimoti har yili O‘zbekiston Respublikasi ta’lim muassasalariga o‘qishga qabul qilish bo‘yicha davlat komissiyasi tomonidan tasdiqlanadi;",
+
+                "Muayyan ta’lim sohasi uchun ajratilgan Prezident granti kvotasi bo‘yicha so‘nggi o‘rindagi abituriyent va u bilan bir xil ball to‘plagan barcha fuqarolar Prezident grantiga da’vogar bo‘ladi;",
+
+                "Oliy ta’lim muassasasiga o‘qishga kirishda imtiyoz shaklidagi qo‘shimcha ballar Prezident grantiga da’vogarlarni aniqlashda hisobga olinmaydi;",
+
+                "Prezident grantiga da’vogar bo‘lgan abituriyentlar ro‘yxati har yili kirish imtihonlari va tanlov to‘liq yakunlangandan so‘ng tasdiqlanadi;",
+
+                "Prezident granti sovrindorlari birinchi kursda barcha fanlarni “a’lo” baholarga o‘qigan, ma’naviy-ma’rifiy va ilmiy-tadqiqot yo‘nalishlarida yutuqlarga erishgan mazkur grantga da’vogar talabalar orasidan Oliy va o‘rta maxsus ta’lim vazirligi, Respublika oliy ta’lim kengashi hamda Yoshlar ishlari agentligi tomonidan o‘tkaziladigan tanlov asosida aniqlanadi;",
+
+              "O‘tkazilgan tanlov natijalariga ko‘ra g‘olib bo‘lgan talabalarga O‘zbekiston Respublikasi Prezidenti davlat stipendiyasi tayinlanadi va to‘lanadi."
+            ],
+            "titleRu":"Предоставление президентских грантов для поддержки талантливой молодежи:",
+            "descriptionRu":[
+               "По результатам вступительных экзаменов на очную форму обучения бакалавриата государственных высших учебных заведений 200 абитуриентов, набравших наивысшие баллы по республике в разрезе образовательных областей, независимо от языка получения образования, будут претендовать на президентский грант.",
+
+                "Распределение квоты, выделенной на президентский грант, по сферам образования ежегодно утверждается Государственной комиссией по приему на обучение в образовательные учреждения Республики Узбекистан;",
+
+                "претендент, занявший последнее место по квоте президентского гранта, выделенной для конкретной области образования, и все граждане, набравшие столько же баллов, сколько и он, будут претендовать на президентский грант;",
+
+                "дополнительные баллы в форме льгот при поступлении в высшее учебное заведение не учитываются при определении соискателей президентского гранта;",
+
+                "Список абитуриентов, претендующих на президентский грант, утверждается ежегодно после сдачи вступительных экзаменов и полного завершения конкурса",
+
+                "Лауреаты президентского гранта определяются на конкурсной основе, проводимой Министерством высшего и среднего специального образования, Республиканским советом высшего образования и Агентством по делам молодежи среди студентов-соискателей гранта, обучающихся на первом курсе на отлично по всем предметам, достигших успехов в духовно-просветительских и научно-исследовательских направлениях;",
+
+              "по результатам проведенного конкурса студентам-победителям назначается и выплачивается государственная стипендия Президента Республики Узбекистан."
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://lex.uz/docs/-5493939",
+            "category": "talim"
+        },
+      {
+            "id":26,
+            "titleUz":"Raqamli texnologiyalar vazirligi stipendiyasi:",
+            "descriptionUz":[
+                "Vazirlik stipendiyasiga ilmiy izlanishlarda hamda ijtimoiy hayotda muvaffaqiyatlarga erishgan quyidagi Professional Ta’lim muassasalari talaba va o‘quvchilari topshirishlari mumkin:",
+
+                "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti va uning filiallar, Toshkent shahridagi Inha universitet, Toshkent shahridagi Amiti universiteti, Yuqorida sanab o’tilgan universitetlarning bakalavriat (kunduzgi va masofaviy) ta’lim yo‘nalishlari bo‘yicha 1-2-3-bosqichni tamomlagan talabalari ",
+
+                "TATU va uning filiallari qoshidagiakademik litseylarning o‘quvchilari, Har o‘quv yilida Vazirlik stipendiyasi kvotasi ta’lim muassasalari bo‘yicha quyidagicha taqsimlanadi: ",
+
+                "Toshkent axborot texnologiyalari universitetiga – 10 ta; Toshkent axborot texnologiyalari universiteti filiallarining har biriga 3 tadan; Toshkent shahridagi Inha universitetiga – 5 ta; Toshkent shahridagi Amiti universitetiga – 5 ta; ",
+
+                "Toshkent axborot texnologiyalari universiteti va uning filiallari qoshidagi akademik litseylarning har biriga 1 tadan.",
+
+                "Shuningdek, imkoniyati cheklangan talabalarni qo‘llab-quvvatlash va jamiyatda ijtimoiy faolligini oshirish maqsadida, ushbu talabalar uchun 6 ta qo‘shimcha kvota ajratiladi. Ajratilgan kvota Vazirlik tizimidagi oliy ta’lim muassasalari uchun umumiy hisoblanadi ",
+
+               "Vazirlik stipendiyasining bir oylik miqdori TATU va uning filiallari, Toshkent shahridagi Inha universiteti, Toshkent shahridagi Amiti universiteti (keyingi o‘rinlarda– Vazirlik tizimidagi oliy ta’lim muassasalari) talabalari uchun bazaviy hisoblash miqdorining 5,0 barobari, litseylarning o‘quvchilari uchun bazaviy hisoblash miqdorining 2,0 barobari miqdorida belgilanadi."
+            ],
+            "titleRu":"Стипендия Министерства цифровых технологий:",
+            "descriptionRu":[
+                "На стипендию министерства могут претендовать студенты и воспитанники следующих профессиональных учебных заведений, добившиеся успехов в научных исследованиях и общественной жизни:",
+
+                "Студенты Ташкентского университета информационных технологий имени Мухаммада аль-Хорезми и его филиалов, университета Инха в г. Ташкенте, университета Амити в г. Ташкенте, перечисленных выше университетов, окончившие 1-2-3 ступени по направлениям бакалавриата (очного и дистанционного)",
+
+                "Учащимся академических лицеев при ТУИТ и его филиалах квота министерской стипендии на каждый учебный год распределяется по образовательным учреждениям следующим образом:",
+
+                "Ташкентскому университету информационных технологий – 10; каждому из филиалов Ташкентского университета информационных технологий – по 3; университету Инха в г. Ташкенте – 5; университету Амити в г. Ташкенте-5;",
+
+                "По 1 академическому лицею при Ташкентском университете информационных технологий и его филиалах.",
+
+                "Кроме того, в целях поддержки студентов с ограниченными возможностями и повышения их социальной активности в обществе для этих студентов будет выделено 6 дополнительных квот. Выделенная квота является общей для высших учебных заведений системы Министерства",
+
+              "Месячный размер министерской стипендии устанавливается в размере 5,0– кратного базового расчета для студентов ТУИТ и его филиалов, университета Инха в г. Ташкенте, университета Амити в г. Ташкенте (далее-высшие учебные заведения системы министерства), в 2,0-кратном размере базового расчета для учащихся лицеев."
+            ],
+            "titleEn":":",
+            "descriptionEn":[
+               
+            ],
+            "linkToService" : "https://edu.digital.uz/en",
+            "category": "talim"
+        },
+       {
+            "id":27,
+            "titleUz":"Asosiy olimpiadalarning respublika bosqichida 1-2-3 o‘rinlarni egallagan ishtirokchilarga imtiyozlar berish:",
+            "descriptionUz":[
+                "Ushbu ishtirokchilarga ixtisoslik fani bo‘yicha davlat oliy ta’lim muassasalariga kirish imtihonlarida maksimal ball olish huquqini beruvchi va uch yil muddat davomida amal qiluvchi sertifikat taqdim qilinadi",
+
+                "G‘oliblari davlat oliy ta’lim muassasalariga test sinovisiz va qo‘shimcha imtihonsiz qabul qilinadigan xalqaro olimpiadalar ro‘yxati:",
+
+                "Xalqaro matematika olimpiadasi International Mathematical Olympiad (IMO)",
+
+                "Xalqaro kimyo olimpiadasi International Chemistry Olympiad (IChO)",
+
+                "Xalqaro biologiya olimpiadasi International Biology Olympiad (IBO)",
+
+                "Xalqaro informatika olimpiadasi International Olympiad in Informatics (IOI)",
+
+                "Sertifikatga qo‘shimcha ravishda, g‘oliblar va ularning o‘qituvchilariga beriladigan 1 martalik pul mukofotlari haqida bilish "
+            ],
+            "titleRu":"Предоставление льгот участникам, занявшим 1-2-3 места на республиканском этапе основных олимпиад:",
+            "descriptionRu":[
+                "Этим участникам предоставляется сертификат, дающий право на получение максимального балла на вступительных экзаменах в государственные высшие учебные заведения по предмету специальности и действительный в течение трех лет",
+
+                "Перечень международных олимпиад, победители которых принимаются в государственные высшие учебные заведения без сдачи зачетов и дополнительных экзаменов:",
+
+                "Международная математическая олимпиада Международная математическая олимпиада (ИМО)",
+
+                "Международная химическая олимпиада Международная химическая олимпиада (IChO)",
+
+                "Международная олимпиада по биологии Международная олимпиада по биологии (IBO)",
+
+                "Международная олимпиада по информатике Международная олимпиада по информатике (IOI)",
+
+              "В дополнение к сертификату отсканируйте, чтобы узнать о 1-кратном денежном призе, присуждаемом победителям и их учителям. "
+            ],
+            "titleEn":":",
+            "descriptionEn":[
+                
+            ],
+            "linkToService" : "https://lex.uz/docs/-4320713",
+            "category": "talim"
+        },
+      {
+            "id":28,
+            "titleUz":"Professional taʼlim tashkilotlarida tahsil olayotgan va ishlab-chiqarish yoki xizmat ko‘rsatish korxonalarida amaliyot o‘tayotgan yoshlar uchun subsidiya:",
+            "descriptionUz":[
+                "Professional taʼlim tashkilotlarida tahsil olayotgan va ishlab-chiqarish yoki xizmat ko‘rsatish korxonalarida amaliyot o‘tayotgan yoshlar uchun 6 oydan ko‘p bo‘lmagan muddatda bazaviy hisoblash miqdorining ikki baravari miqdorida har oylik subsidiya ajratiladi.",
+
+                "Professional taʼlim tashkilotlarida tahsil olayotgan va ishlab-chiqarish yoki xizmat ko‘rsatish korxonalarida amaliyot o‘tayotgan yoshlar 6 oygacha muddatda BHMning 2 baravari miqdorida har oylik subsidiya ajratish yuzasidan professional taʼlim tashkilotiga murojaat qiladi.",
+
+                "Subsidiya mablag‘lari professional taʼlim tashkiloti tomonidan keyinchalik davlat byudjetidan kompensatsiya qilish sharti bilan to‘lanadi.",
+
+                "Imtiyozni qo‘llash bo‘yicha murojaatlar O‘zbekiston Respublikasining «Jismoniy va yuridik shaxslarning murojaatlari to‘g‘risida»gi qonunida belgilangan muddatlarda ko‘rib chiqiladi. Xususan, arizalar o‘n besh kun ichida, qo‘shimcha o‘rganish (tekshirish, qo‘shimcha hujjatlarni so‘rab olish talab etilganda) esa, bir oygacha muddatda ko‘rib chiqiladi. "
+            ],
+            "titleRu":"Субсидия для молодежи, обучающейся в профессиональных образовательных организациях и проходящей стажировку на производственных или сервисных предприятиях:",
+            "descriptionRu":[
+                "Для молодых людей, обучающихся в профессиональных образовательных организациях и проходящих практику на производственных или сервисных предприятиях, ежемесячно выделяется субсидия в размере, удвоенном от базового расчета, сроком не более 6 месяцев.",
+
+                "Молодые люди, обучающиеся в профессиональных образовательных организациях и проходящие практику на производственных или сервисных предприятиях, обращаются в профессиональную образовательную организацию с просьбой о выделении ежемесячной субсидии в размере 2-кратной суммы МРОТ на срок до 6 месяцев.",
+
+                "Субсидиарные средства выплачиваются профессиональной образовательной организацией с последующей компенсацией из государственного бюджета.",
+
+                "Обращения по применению льготы рассматриваются в сроки, установленные законом Республики Узбекистан»Об обращениях физических и юридических лиц В частности, заявки рассматриваются в течение пятнадцати дней, а при необходимости дальнейшего изучения (проверки, запроса дополнительных документов) - до месяца. "
+            ],
+            "titleEn":":",
+            "descriptionEn":[
+               
+            ],
+            "linkToService" : "https://lex.uz/docs/-5668176?ONDATE=10.08.2024",
+            "category": "talim"
+        },
+      {
+            "id":29,
+            "titleUz":"Kasbiy malakaga ega yoshlar uchun imtiyozlar:",
+            "descriptionUz":[
+                "Nodavlat kasb-hunarga o‘qitish muassasalarida taʼlim olgan hamda WorldSkills ва boshqa xalqaro standartlar darajasida kasbiy malakasertifikatini (Skills pasporti) olgan bitiruvchilarga Bandlikka ko‘maklashish davlat jamg‘armasi mablag‘lari hisobidan:",
+
+                "Kasb-hunarga o‘qish ва malaka imtihonini topshirish xarajatlarini qoplanadi; tadbirkorlikka jalb etish ва o‘zini o‘zi band qilganlik uchun rag‘batlantirish subsidiyalari ajratiladi;  o‘z biznesini boshlashi uchun imtiyozli kredit ajratishga yo‘llanma beriladi.",
+
+                "Kasbiy malaka sertifikati olgan IT sohasidagi yoshlar uchun o‘qish va imtihon xarajatlari qoplanadi, shuningdek, o‘z biznesini boshlash uchun imtiyozli kredit olish imkoniyati yaratiladi.",
+
+                "- Xarajatlarni moliyalashtirish yuzasidan takliflar kiritilgandan keyin 10 ish kuni mobaynida kelishilib beriladi",
+
+                "-  Kelishuvdan so‘ng, 5 ish kuni mobaynida talabgor ko‘rsatgan plastik kartaga pul mablag‘lari yo‘naltiriladi.",
+
+                "Xalqaro IT-sertifikat  To‘lov kvitansiya nusxalari  O‘quv kursini tamomlaganligini tasdiqlovchi hujjatlar nusxasi  Bank plastik kartasiga oid ma’lumotlar",
+
+              "- Talabgor tomonidan taqdim etiladi. Xarajatlarni 100 foiz qoplab olish uchun talabgorlar ingliz tili bo‘yicha B2 va undan yuqori darajaga egaligini tasdiqlovchi xalqaro sertifikat nusxasini qo‘shimcha ravishda taqdim etadi.",
+
+              "- Sertifikatning haqiqiyligi tasdiqlanmasa bu haqida 3 ish kuni mobaynida talabgorga SMS yuboriladi."
+            ],
+            "titleRu":"Преимущества для молодых людей с профессиональной квалификацией:",
+            "descriptionRu":[
+                "Выпускникам, получившим образование в негосударственных профессиональных учебных заведениях и получившим сертификат профессиональной квалификации (паспорт навыков) на уровне WorldSkills и других международных стандартов, за счет средств государственного Фонда содействия занятости:",
+
+                "покрываются расходы на обучение профессии и сдачу квалификационного экзамена;• предоставляются субсидии на стимулирование предпринимательства и самозанятости; • предоставляется направление на предоставление льготного кредита для открытия собственного бизнеса.",
+
+                "Молодым людям в сфере ИТ, получившим сертификат профессиональной квалификации, будут возмещены расходы на обучение и экзамены, а также предоставлена возможность получить льготный кредит для открытия собственного бизнеса.",
+
+                "- Предложения по финансированию расходов будут согласованы в течение 10 рабочих дней после их внесения",
+
+                "- После согласования в течение 5 рабочих дней денежные средства направляются на указанную заявителем пластиковую карту.",
+
+                "Международный IT-сертификат • копии платежных квитанций • копии документов, подтверждающих прохождение курса обучения • данные банковской пластиковой карты",
+
+              "- представляется заявителем. Чтобы получить 100-процентное покрытие расходов, кандидаты дополнительно предоставляют копию международного сертификата, подтверждающего владение английским языком B2 и выше.",
+
+              "- Если подлинность сертификата не будет подтверждена, в течение 3 рабочих дней заявителю будет отправлено SMS."
+            ],
+            "titleEn":"",
+            "descriptionEn":[
+               
+            ],
+            "linkToService" : "https://lex.uz/docs/-5664463",
+            "category": "talim"
+        }
+    ]
+}

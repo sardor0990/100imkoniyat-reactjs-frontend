@@ -1,0 +1,110 @@
+{
+    "data" :[
+        {
+            "titleUz":"Nogironligi bo‘lgan yoshlarga (500 nafar) o‘qish davrida yashash va transport xarajatlari uchun subsidiya ",
+            "descriptionUz":[
+                "Kerakli hujjatlar:",
+
+                " Yo‘l xarajatlari to‘lovlarini tasdiqlovchi hujjatlar;",
+
+                "Ijara shartnomasining soliq organlarida hisobga qo‘yilganligi haqida bildirishnoma.",
+
+                "Subsidiya ajratish uchun YIDXPda ro‘yxatdan o‘tiladi va so‘rovnoma yuboriladi.",
+
+                "Arizachi to‘g‘risida va o‘quv kursi haqida ma’lumot kiritiladi. Shundan so‘ng arizachiga SMS-xabarnoma yuboradi.",
+
+                "Subsidiya miqdori bir sutkada ijarada yashash uchun bazaviy hisoblash miqdorining 10 foizidan oshmasligi lozim",
+
+                "Har bir kilometr uchun BHMning 0,2 foizidan oshmasligi lozim. Bunda kilometr miqdori 500 metr va undan ortiq bo‘lgan hollarda — ko‘p tomonga, kilometr miqdori 500 metrdan kam bo‘lgan hollarda — kam tomonga yaxlitlanadi. (3 ish kuni mobaynida ariza ko‘rib chiqiladi) ",
+
+                "Mahalladagi yoshlar yetakchisi arizachining ijara shartnomasida ko‘rsatilgan manzilda yashashi, o‘qishiga tegishli transportda qatnashini joyiga chiqib o‘rganadi.",
+
+                "Ariza beruvchiga subsidiya ajratish yoki rad etish haqida tavsiyani YIAning tuman (shahar) bo‘limiga elektron shaklda yuboradi. (5 kun)",
+
+                "Mahalladagi yoshlar yetakchisining tavsiyasini ilova qilgan holda ariza beruvchiga yashash va transport xarajati uchun subsidiya ajratish yoki rad etish to‘g‘risida Yoshlar ishlari agentligiga so‘rov yuboradi. (2 kun)",
+
+                "Taqdim etilgan tavsiyaga asosan ariza beruvchiga subsidiyani to‘lash yoki uni rad etish to‘g‘risida qaror qabul qiladi, bu haqida elektron tizimga ma’lumot kiritadi hamda ariza beruvchiga SMS-xabarnoma yuboradi."
+            ],
+            "titleRu":"Субсидия для молодых людей с инвалидностью (500 человек) на жилье и транспортные расходы",
+            "descriptionRu":[
+                "Необходимые документы:",
+
+                "Документы, подтверждающие оплату дорожных расходов;",
+
+                "Уведомление о регистрации договора аренды в налоговых органах.",
+
+                "Регистрация для получения субсидии в YIDXP и отправка заявки.",
+
+                "Информация о заявителе и курсе обучения вводится. Затем заявителю отправляется SMS-уведомление.",
+
+                "Сумма субсидии не должна превышать 10% от базовой расчетной суммы за проживание в сутки",
+
+                "Не более 0,2% от БHM за каждый километр. В этом случае расстояние в 500 метров и более округляется в большую сторону, а расстояние менее 500 метров - в меньшую сторону. (Заявка рассматривается в течение 3 рабочих дней) ",
+
+                "Лидер молодежи в местности проверяет, живет ли заявитель по адресу, указанному в договоре аренды, и использует транспорт, связанный с его обучением.",
+
+                "Заявителю отправляется электронное уведомление о рекомендации по предоставлению субсидии или отказе от нее в отделении YIA по району (городу). (5 дней)",
+
+                "С учетом рекомендации лидера молодежи в местности заявитель отправляет запрос на предоставление субсидии или отказ от нее в агентство по делам молодежи. (2 дня)",
+
+                "На основе представленной рекомендации принимается решение о предоставлении субсидии или отказе от нее, информация об этом вводится в электронную систему, и заявителю отправляется SMS-уведомление."
+            ],
+            "titleEn":"Subsidy for young people with disabilities (500 people) for housing and transportation expenses",
+            "descriptionEn":[
+                "Required documents:",
+
+                "Documents confirming the payment of road expenses;",
+
+                "Notification of the registration of the rental agreement with tax authorities.",
+
+                "Registration for subsidy allocation in YIDXP and submission of the application.",
+
+                "Information about the applicant and the training course is entered. Then an SMS notification is sent to the applicant.",
+
+                "The subsidy amount must not exceed 10% of the basic calculation amount for daily accommodation",
+
+                "Not more than 0.2% of BHM per kilometer. In this case, the distance of 500 meters and more is rounded up, and the distance of less than 500 meters is rounded down. (The application is reviewed within 3 working days) ",
+
+                "The youth leader in the locality checks if the applicant lives at the address specified in the rental agreement and uses transportation related to their education.",
+
+                "The applicant is sent an electronic notification about the recommendation for subsidy allocation or refusal from the YIA district (city) department. (5 days)",
+
+                "Taking into account the recommendation of the youth leader in the locality, the applicant submits a request for subsidy allocation or refusal to the Youth Affairs Agency. (2 days)",
+
+                "Based on the submitted recommendation, a decision is made on the allocation of the subsidy or refusal, this information is entered into the electronic system, and an SMS notification is sent to the applicant."
+            ],
+            "linkToService" : "https://youtu.be/GfcF6ETaYOA?si=DkSPZn8diR-fQCxB"
+        },
+        {
+            "titleUz" :" O‘zbek nutq sintezatori va boshqa semantik-eshitish vositalari uchun maxsus kompleks dastur  — Muxlisa ovozli yordamchi (QR kod qo‘yish kerak)",
+            "descriptionUz":[
+                "Nogironligi bor shaxslar portalda ro‘yxatdan o‘tib, ta’lim, mehnat, madaniyat va turizm, tibbiyot bilan bog‘liq imkoniyatlar bilan tanishish va foydalanish mumkin"
+            ],
+            "titleRu":"Специальный комплексный программный комплекс для узбекского речевого синтезатора и других семантических-слуховых средств — голосовой помощник Мухлиса (нужно поместить QR-код)",
+            "descriptionRu":[
+                "Люди с инвалидностью могут регистрироваться на портале и знакомиться с возможностями, связанными с образованием, трудом, культурой и туризмом, медициной."
+            ],
+            "titleEn":"Special comprehensive software complex for Uzbek speech synthesizer and other semantic-hearing tools — Muxlisa voice assistant (QR code needs to be placed)",
+            "descriptionEn":[
+                "People with disabilities can register on the portal and familiarize themselves with opportunities related to education, work, culture and tourism, medicine."
+            ],
+            "linkToService" : "https://youtu.be/GfcF6ETaYOA?si=DkSPZn8diR-fQCxB"
+        },
+
+        {
+            "titleUz":"“Ijtimoiy xizmat” yagona interaktiv tibbiy va ijtimoiy hizmatlar platformasi (https://ijtimoiy-xizmat.uz/uz)",
+            "descriptionUz":[
+                "Nogironligi bor shaxslar portalda ro‘yxatdan o‘tib, ta’lim, mehnat, madaniyat va turizm, tibbiyot bilan bog‘liq imkoniyatlar bilan tanishish va foydalanish mumkin"
+            ],
+            "titleRu":"Единая интерактивная платформа социальных и медицинских услуг «Социальная служба» (https://ijtimoiy-xizmat.uz/uz)",
+            "descriptionRu":[
+                "Люди с инвалидностью могут регистрироваться на портале и знакомиться с возможностями, связанными с образованием, трудом, культурой и туризмом, медициной."
+            ],
+            "titleEn":"Unified Interactive Social and Medical Services Platform “Social Service” (https://ijtimoiy-xizmat.uz/uz)",
+            "descriptionEn":[
+                "People with disabilities can register on the portal and familiarize themselves with opportunities related to education, work, culture and tourism, medicine."
+            ],
+            "linkToService" : "https://youtu.be/GfcF6ETaYOA?si=DkSPZn8diR-fQCxB"
+        }
+    ]
+}
